@@ -1,4 +1,9 @@
-# bootstrap5-creative-jekyll
+# Cocreation Planet
+
+This site shows the cocreation planet for use in courses
+
+# Jekyll website source
+Theme bootstrap5-creative-jekyll.
 
 Ported the current version of [Creative Theme](https://startbootstrap.com/theme/creative) by [Start Bootstrap](https://github.com/StartBootstrap) into Jekyll.
 

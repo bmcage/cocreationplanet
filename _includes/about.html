@@ -7,7 +7,54 @@
         <p class="text-white-75 mb-4">This course was co-designed by teachers, for teachers.</p>
       </div>
       <div class="col-lg-12 text-center">
-        <img src="assets/img/planet/planet-v03.svg" alt="planet" usemap="#workmap" width="1000">
+        <!-- svg of the cocreation planet-->
+        <div id="svgdiv">
+          <object id="svgobject" data="assets/img/planet/planet-v03.svg"></object>
+        </div>
+        <!--img src="assets/img/planet/planet-v03.svg" alt="planet" usemap="#workmap" width="1000"-->
+        <script>
+          window.addEventListener("DOMContentLoaded", () => {
+            var mySvg = document.getElementById("svgobject").contentDocument.activeElement;
+            //console.log (mySvg.contentDocument.activeElement);
+            
+            // selecting all continents
+            let cont1 = mySvg.getElementById('cont1');
+            let cont1_base = mySvg.getElementById('cont1_base');
+            // selecting all tooltips
+            let cont1_tooltip = mySvg.getElementById('cont1_tooltip');
+            // selecting all layers
+            let layerplanet = mySvg.getElementById('layerplanet');
+            let layerregion01 = mySvg.getElementById('layerregion01');
+            
+            // hide all elements to hide at start 
+            cont1_tooltip.style.display = "none";
+            
+
+            cont1.addEventListener("click", () => {
+              layerplanet.style.display = "none";
+              layerregion01.style.display = "inline";
+
+            });
+
+            // Add event listener for mouseover event oncontinents
+            cont1.addEventListener('mouseover', () => {
+              // Change the fill color to highlight the SVG element
+              cont1_base.style.filter = `brightness(75%)`;
+              cont1_base.style.cursor = "pointer";
+              
+              //cont1_base.style.fill = "#202020";
+              cont1_tooltip.style.display = "inline";
+            });
+
+            // Add event listener for mouseover event oncontinents
+            cont1.addEventListener('mouseout', () => {
+              // Change the fill color to highlight the SVG element
+              cont1_base.style.filter = `brightness(100%)`;
+              cont1_tooltip.style.display = "none";
+            });
+          });
+           
+        </script>
       </div>
     </div>
   </div>

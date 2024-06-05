@@ -15,6 +15,12 @@
         <script>
           window.addEventListener("DOMContentLoaded", () => {
             var mySvg = document.getElementById("svgobject").contentDocument.activeElement;
+            console.log(mySvg);
+            if (mySvg === null) {
+              // chrome 
+              //console.log(document.getElementById("svgobject").getSVGDocument());
+              mySvg = document.getElementById("svgobject").getSVGDocument();
+            }
             //console.log (mySvg.contentDocument.activeElement);
             
             // selecting all continents

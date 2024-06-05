@@ -14,50 +14,57 @@
         <!--img src="assets/img/planet/planet-v03.svg" alt="planet" usemap="#workmap" width="1000"-->
         <script>
           window.addEventListener("DOMContentLoaded", () => {
-            var mySvg = document.getElementById("svgobject").contentDocument.activeElement;
-            console.log(mySvg);
-            if (mySvg === null) {
-              // chrome 
-              //console.log(document.getElementById("svgobject").getSVGDocument());
-              mySvg = document.getElementById("svgobject").getSVGDocument();
-            }
-            //console.log (mySvg.contentDocument.activeElement);
-            
-            // selecting all continents
-            let cont1 = mySvg.getElementById('cont1');
-            let cont1_base = mySvg.getElementById('cont1_base');
-            // selecting all tooltips
-            let cont1_tooltip = mySvg.getElementById('cont1_tooltip');
-            // selecting all layers
-            let layerplanet = mySvg.getElementById('layerplanet');
-            let layerregion01 = mySvg.getElementById('layerregion01');
-            
-            // hide all elements to hide at start 
-            cont1_tooltip.style.display = "none";
-            
+            var mySvg = document.getElementById("svgobject").getSVGDocument();            
+            // the planet layer
+            let layerplanet = mySvg.getElementById("layerplanet");
+            {% for continent in site.data.svgelements.continents %}  
+              // continent
+              let {{ continent.svglabel }} = mySvg.getElementById("{{ continent.svglabel }}");
+              // only the path that is continent
+              let {{ continent.svglabel }}_base = mySvg.getElementById("{{ continent.svglabel }}_base");
+              // the continent tooltip
+              let {{ continent.svglabel }}_tooltip = mySvg.getElementById("{{ continent.svglabel }}_tooltip");
+              // the continent layer
+              let {{ continent.layeronclick }} = mySvg.getElementById("{{ continent.layeronclick }}");
+              // the back to planet text on each layer
+              let back{{ continent.svglabel }} = mySvg.getElementById("back{{ continent.svglabel }}");
 
-            cont1.addEventListener("click", () => {
-              layerplanet.style.display = "none";
-              layerregion01.style.display = "inline";
+              // hide all elements to hide at start 
+              {{ continent.svglabel }}_tooltip.style.display = "none";
 
-            });
+              {{ continent.svglabel }}.addEventListener("click", () => {
+                layerplanet.style.display = "none";
+                {{ continent.layeronclick }}.style.display = "inline";
+                 //window.open("http://google.be", "_blank");
 
-            // Add event listener for mouseover event oncontinents
-            cont1.addEventListener('mouseover', () => {
-              // Change the fill color to highlight the SVG element
-              cont1_base.style.filter = `brightness(75%)`;
-              cont1_base.style.cursor = "pointer";
-              
-              //cont1_base.style.fill = "#202020";
-              cont1_tooltip.style.display = "inline";
-            });
+              });
 
-            // Add event listener for mouseover event oncontinents
-            cont1.addEventListener('mouseout', () => {
-              // Change the fill color to highlight the SVG element
-              cont1_base.style.filter = `brightness(100%)`;
-              cont1_tooltip.style.display = "none";
-            });
+              // Add event listener for mouseover event on continents
+              {{ continent.svglabel }}.addEventListener("mouseover", () => {
+                {{ continent.svglabel }}_base.style.filter = "brightness(75%)";
+                {{ continent.svglabel }}_base.style.cursor = "pointer";
+                {{ continent.svglabel }}_tooltip.style.display = "inline";
+              });
+
+              // Add event listener for mouseout event on continents
+              {{ continent.svglabel }}.addEventListener("mouseout", () => {
+                // Change the fill color to highlight the SVG element
+                {{ continent.svglabel }}_base.style.filter = "brightness(100%)";
+                {{ continent.svglabel }}_tooltip.style.display = "none";
+              });
+                   
+              // Add event listener for mouseover event on back button planet
+               back{{ continent.svglabel }}.addEventListener("mouseover", () => {
+                // Change the pointer
+                 back{{ continent.svglabel }}.style.cursor = "pointer";
+              });
+              // Add event listener for click event on back button planet
+              back{{ continent.svglabel }}.addEventListener("click", () => {
+                layerplanet.style.display = "inline";
+                {{ continent.layeronclick }}.style.display = "none";
+
+              });
+            {% endfor %}
           });
            
         </script>

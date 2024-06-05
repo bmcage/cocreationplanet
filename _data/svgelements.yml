@@ -1,0 +1,12 @@
+continents:
+  - svglabel: "cont1"
+    layeronclick: "layerregion01"
+  - svglabel: "cont2"
+    layeronclick: "layerregion02"
+  - svglabel: "cont3"
+    layeronclick: "layerregion03"
+  - svglabel: "cont4"
+    layeronclick: "layerregion04"
+  - svglabel: "cont5"
+    layeronclick: "layerregion05"
+  

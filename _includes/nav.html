@@ -1,3 +1,5 @@
+
+{% assign curLang = page.lang | default: site.default_lang %}
 <nav class="navbar navbar-expand-lg navbar-light fixed-top py-3" id="mainNav">
     <div class="container px-4 px-lg-5">
         <a class="navbar-brand" href="#page-top">Design Thinking Toolkit</a>
@@ -7,7 +9,16 @@
                 <li class="nav-item"><a class="nav-link" href="#about">Toolkit</a></li>
                 <!--<li class="nav-item"><a class="nav-link" href="#services">Courses</a></li>-->
                 <li class="nav-item"><a class="nav-link" href="#portfolio">Courses</a></li>
-                <li class="nav-item"><a class="nav-link" href="#contact">Contact</a></li>
+                <!-- li class="nav-item"><a class="nav-link" href="#contact">Contact</a></li-->
+                {% for lang in site.languages %}
+                  {% if lang != curLang %}
+                    {% if lang == site.default_lang %}
+                <li class="nav-item"><a class="nav-link" href="{{ site.url }}">{{ lang }}</a></li>
+                    {% else %}
+                <li class="nav-item"><a class="nav-link" href="/{{ lang }}{{ page.url }}">{{ lang }}</a></li>
+                    {% endif %}
+                  {% endif %}
+                {% endfor %}
             </ul>
         </div>
     </div>

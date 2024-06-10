@@ -9,7 +9,11 @@
       <div class="col-lg-12 text-center">
         <!-- svg of the cocreation planet-->
         <div id="svgdiv">
-          <object id="svgobject" data="assets/img/planet/planet-v03.svg"></object>
+          {% if curLang == "nl" %}
+          <object id="svgobject" data="{{ site.url }}{{ site.baseurl }}/assets/img/planet/planet-v03_nl.svg"></object>
+          {% else %}
+          <object id="svgobject" data="{{ site.url }}{{ site.baseurl }}/assets/img/planet/planet-v03.svg"></object>
+          {% endif %}  
         </div>
         <!--img src="assets/img/planet/planet-v03.svg" alt="planet" usemap="#workmap" width="1000"-->
         <script>

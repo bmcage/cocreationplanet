@@ -20,10 +20,11 @@
 
 title: ExtenDT² co-creation planet Toolkit
 email: benny.malengier@ugent.be
-description: >- # this means to ignore newlines until "baseurl:"
+description: >- # this means to ignore newlines until "url:"
   A cocreation planet to learn about design thinking aimed at secondary school teachers. The framework developed for this planet can be reused by teachers to create a cocreation planet for their classes
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+# For development, serve with cmd: bundle exec jekyll serve --config _config.yml,_config_dev.yml 
+url: "https://bmcage.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/cocreationplanet" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  bmcage
 default_lang: en

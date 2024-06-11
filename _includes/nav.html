@@ -13,9 +13,9 @@
                 {% for lang in site.languages %}
                   {% if lang != curLang %}
                     {% if lang == site.default_lang %}
-                <li class="nav-item"><a class="nav-link" href="{{ site.url }}">{{ lang }}</a></li>
+                <li class="nav-item"><a class="nav-link" href="{{ site.url }}{{ site.baseurl }}/">{{ lang }}</a></li>
                     {% else %}
-                <li class="nav-item"><a class="nav-link" href="/{{ lang }}{{ page.url }}">{{ lang }}</a></li>
+                <li class="nav-item"><a class="nav-link" href="{{ site.url }}{{ site.baseurl }}/{{ lang }}{{ page.url }}">{{ lang }}</a></li>
                     {% endif %}
                   {% endif %}
                 {% endfor %}

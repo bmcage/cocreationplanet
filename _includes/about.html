@@ -17,9 +17,11 @@
         </div>
         <!--img src="assets/img/planet/planet-v03.svg" alt="planet" usemap="#workmap" width="1000"-->
         <script>
-          window.addEventListener("DOMContentLoaded", () => {
-            var mySvg = document.getElementById("svgobject").getSVGDocument();            
+          var mySvgObject = document.getElementById("svgobject"); 
+          mySvgObject.addEventListener("load", () => {
             // the planet layer
+            let mySvg = mySvgObject.getSVGDocument();
+            //console.log(mySvg);
             let layerplanet = mySvg.getElementById("layerplanet");
             {% for continent in site.data.svgelements.continents %}  
               // continent

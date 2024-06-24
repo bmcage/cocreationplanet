@@ -23,7 +23,7 @@
             let mySvg = mySvgObject.getSVGDocument();
             //console.log(mySvg);
             let layerplanet = mySvg.getElementById("layerplanet");
-            {% for continent in site.data.svgelements.continents %}  
+            {% for continent in site.data.svgelements.continents_regions %}  
               // continent
               let {{ continent.svglabel }} = mySvg.getElementById("{{ continent.svglabel }}");
               // only the path that is continent
@@ -34,12 +34,13 @@
               let {{ continent.layeronclick }} = mySvg.getElementById("{{ continent.layeronclick }}");
               // the back to planet text on each layer
               let back{{ continent.svglabel }} = mySvg.getElementById("back{{ continent.svglabel }}");
+              let backlayer{{ continent.svglabel }} = mySvg.getElementById("{{ continent.backlayer }}");
 
               // hide all elements to hide at start 
               {{ continent.svglabel }}_tooltip.style.display = "none";
-
+              // add event listener for click on continent
               {{ continent.svglabel }}.addEventListener("click", () => {
-                layerplanet.style.display = "none";
+                backlayer{{ continent.svglabel }}.style.display = "none";
                 {{ continent.layeronclick }}.style.display = "inline";
                  //window.open("http://google.be", "_blank");
 
@@ -64,10 +65,37 @@
                 // Change the pointer
                  back{{ continent.svglabel }}.style.cursor = "pointer";
               });
-              // Add event listener for click event on back button planet
+              // Add event listener for click event on back button planet/region
               back{{ continent.svglabel }}.addEventListener("click", () => {
-                layerplanet.style.display = "inline";
+                backlayer{{ continent.svglabel }}.style.display = "inline";
                 {{ continent.layeronclick }}.style.display = "none";
+
+              });
+            {% endfor %}
+                   
+            // for loop for country clicks that switch between layer to different country
+            {% for country in site.data.svgelements.country_mouseover %}  
+              // continent
+              let {{ country.svglabel }} = mySvg.getElementById("{{ country.svglabel }}");
+              let {{ country.svglabel }}_base = mySvg.getElementById("{{ country.svglabel }}_base");
+              // Add event listener for mouseover event on country
+              {{ country.svglabel }}.addEventListener("mouseover", () => {
+                {{ country.svglabel }}.style.filter = "brightness(75%)";
+                {{ country.svglabel }}.style.fill = "#f1f1f1";
+                {{ country.svglabel }}.style.cursor = "pointer";
+              });
+
+              // Add event listener for mouseout event on country
+              {{ country.svglabel }}.addEventListener("mouseout", () => {
+                // Change the fill color to highlight the SVG element
+                {{ country.svglabel }}.style.filter = "brightness(100%)";
+                {{ country.svglabel }}.style.fill = "#ffffff";
+              });
+              // add event listener for click on country
+              {{ country.svglabel }}_base.addEventListener("click", () => {
+                {{ country.movefromlayer }}.style.display = "none";
+                {{ country.movetolayer }}.style.display = "inline";
+                 //window.open("http://google.be", "_blank");
 
               });
             {% endfor %}

@@ -1,12 +1,27 @@
-continents:
+continents_regions:
   - svglabel: "cont1"
     layeronclick: "layerregion01"
+    backlayer: "layerplanet"
   - svglabel: "cont2"
     layeronclick: "layerregion02"
+    backlayer: "layerplanet"
   - svglabel: "cont3"
     layeronclick: "layerregion03"
+    backlayer: "layerplanet"
   - svglabel: "cont4"
     layeronclick: "layerregion04"
+    backlayer: "layerplanet"
   - svglabel: "cont5"
     layeronclick: "layerregion05"
-  
+    backlayer: "layerplanet"
+  - svglabel: "cont1reg1"
+    layeronclick: "layerregion01country01"
+    backlayer: "layerregion01"
+  - svglabel: "cont1reg2"
+    layeronclick: "layerregion01country02"
+    backlayer: "layerregion01"
+
+country_mouseover:
+  - svglabel: "expcountry"
+    movefromlayer: "layerregion01country01"
+    movetolayer: "layerregion01country02"

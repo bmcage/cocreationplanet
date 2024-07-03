@@ -1,0 +1,63 @@
+cocreationlinks:
+# continent 1: Empathise & understand
+#   country 1: Empathise country
+#    region 1: High immersion
+  - svglabel: "c1c1r1link1"
+    active: "yes"
+    title: "Being in the Shoes of ..."
+    main_link: "https://www.youtube.com/watch?v=mrgwAl0zyhg"
+    text: "Put yourself in the shoes of your user. What do they say, do, think, feel, about the problem?"    
+  - svglabel: "c1c1r1link2"
+    active: "yes"
+    title: "Day in the life"
+    main_link: "https://think.design/user-design-research/a-day-in-the-life/"
+    text: 'Follow and observe a user through a typical day.'
+  - svglabel: "c1c1r1link3"
+    active: "yes"
+    title: "Day in the life - 2"
+    main_link: "https://toolkits.dss.cloud/design/method-card/day-in-the-life/"
+    text: "Follow the step by step guideling to perform the a-day-in-the-life research. (by Amsterdam University)" 
+  - svglabel: "c1c1r1link4"
+    active: "no"
+    title: " "
+    main_link: ""
+    text: " " 
+  - svglabel: "c1c1r1link5"
+    active: "no"
+    title: " "
+    main_link: ""
+    text: " " 
+  - svglabel: "c1c1r1link6"
+    active: "no"
+    title: " "
+    main_link: ""
+    text: " " 
+  - svglabel: "c1c1r1link7"
+    active: "no"
+    title: " "
+    main_link: ""
+    text: " " 
+  - svglabel: "c1c1r1link8"
+    active: "no"
+    title: " "
+    main_link: ""
+    text: " " 
+  - svglabel: "c1c1r1link9"
+    active: "no"
+    title: " "
+    main_link: ""
+    text: " " 
+#    region 2: Lower immersion
+  - svglabel: "c1c1r2link1"
+    active: "yes"
+    title: "Questionnaires"
+    main_link: "https://www.researchgate.net/publication/327425122_Guidelines_for_Conducting_Surveys"
+    text: "Conduct a survey to obtain more insights in the problem. You can use several free tools to make a questionnaire, for example Qualtrics, Surveymonkey, or Google Forms."
+#   country 2: Explore country
+# continent 2: Define & Ideate
+
+# continent 3: Rapid prototyping & iteration
+
+# continent 4: Sharing & Feedback
+
+# continent 5: Respond & Deliver

@@ -15,7 +15,17 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"><defs
-     id="defs896"><pattern
+     id="defs896"><rect
+       x="563.02661"
+       y="403.5885"
+       width="141.68115"
+       height="73.450562"
+       id="rect37818" /><rect
+       x="9.6867981"
+       y="159.19873"
+       width="214.44867"
+       height="374.19684"
+       id="rect48405" /><pattern
        inkscape:collect="always"
        xlink:href="#pattern90986"
        id="pattern18936"
@@ -21152,13 +21162,13 @@
      inkscape:pagecheckerboard="0"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="603.99998"
-     inkscape:cy="220.49999"
-     inkscape:window-width="1602"
-     inkscape:window-height="992"
-     inkscape:window-x="307"
-     inkscape:window-y="39"
-     inkscape:window-maximized="0"
+     inkscape:cx="294.5"
+     inkscape:cy="221"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="layerregion01country01"
      inkscape:snap-global="false"
      fit-margin-top="0"
@@ -21169,7 +21179,7 @@
      inkscape:groupmode="layer"
      inkscape:label="planet"
      transform="matrix(1.3333333,0,0,-1.3333333,-136.42066,1188.572)"
-     style="display:inline"><g
+     style="display:none"><g
        id="g71429"
        transform="matrix(-0.45599961,0,0,0.45599961,1156.7258,705.67471)"
        style="stroke-width:2.48027;stroke-miterlimit:4;stroke-dasharray:none"><g
@@ -22052,7 +22062,7 @@
      inkscape:groupmode="layer"
      id="layerregion01country01"
      inkscape:label="region01country01"
-     style="display:none"><g
+     style="display:inline"><g
        id="g688-2"
        transform="matrix(0.79586048,0,0,-0.79586048,-478.2533,626.64618)"
        style="display:inline"><g
@@ -22735,7 +22745,109 @@
          sodipodi:nodetypes="cccsccccccccccc" /><path
          style="font-variation-settings:normal;opacity:0.601599;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:5.52586;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:22.1034, 22.1034;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
          d="m 893.36501,419.0823 23.3736,24.86918 3.4628,29.9007 c 0,0 23.7347,46.21031 26.5157,49.14512 2.7811,2.93482 31.0218,19.59086 31.0218,19.59086 l 18.2269,27.09179 3.8251,37.00996 49.69789,59.21228 5.4306,18.9155 2.8492,27.83649 26.7323,12.40366 20.7025,25.56097 16.5681,14.02693 27.165,9.52668 15.5593,13.29639"
-         id="path123107" /></g></g><g
+         id="path123107" /></g><a
+       id="textc1c1url"
+       target="_blank"
+       xlink:href="https://extendt2.eu/"><text
+         xml:space="preserve"
+         id="textc1c1link"
+         style="font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:12.312px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Bold;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect48405);fill:#17668d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.456"
+         transform="translate(1.937439,-44.99234)"><tspan
+           x="9.6875"
+           y="173.19922"
+           id="tspan93403"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan93401"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="193.19922"
+           id="tspan93407"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan93405"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="213.19922"
+           id="tspan93411"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan93409"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="233.19922"
+           id="tspan93415"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan93413"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="253.19922"
+           id="tspan93419"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan93417"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="273.19922"
+           id="tspan93423"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan93421"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="293.19922"
+           id="tspan93427"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan93425"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="313.19922"
+           id="tspan93431"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan93429"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="333.19922"
+           id="tspan93435"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan93433"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="353.19922"
+           id="tspan93439"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan93437"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="373.19922"
+           id="tspan93443"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan93441"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="393.19922"
+           id="tspan93447"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan93445"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="413.19922"
+           id="tspan93451"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan93449"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="433.19922"
+           id="tspan93455"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan93453"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="453.19922"
+           id="tspan93459"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan93457"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="473.19922"
+           id="tspan93463"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan93461"> </tspan></tspan></text></a></g><g
      inkscape:groupmode="layer"
      id="layerregion01country02"
      inkscape:label="region01country02"

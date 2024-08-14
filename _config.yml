@@ -34,6 +34,12 @@ languages:
 
 # Build settings
 theme: minima
+
+# avoid deprecation warning with minima ...
+# https://github.com/jekyll/minima/issues/709
+sass:
+  quiet_deps: true
+
 plugins:
   - jekyll-feed
 

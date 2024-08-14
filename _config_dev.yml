@@ -1,3 +1,3 @@
-# devel local site settings. To serve use bundle exec jekyll serve --config _config.yml,_coig_dev.yml
+# devel local site settings. To serve use bundle exec jekyll serve --config _config.yml,_config_dev.yml
 url: "https://localhost" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/cocreationplanet" # the subpath of your site, e.g. /blog

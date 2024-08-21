@@ -117,59 +117,190 @@
               });
             {% endfor %}
                    
-            // for loop to show the links
             let c1c1txt = mySvg.getElementById("textc1c1link");
             let c1c1url = mySvg.getElementById("textc1c1url");
                    
-            console.log(c1c1txt.firstChild.firstChild);
+            //console.log(c1c1txt.firstChild.firstChild);
+            // for loop to show the standard links
             {% for link in site.data.courselinks.cocreationlinks %}  
+              {% if site.data.possiblecourselinks.poscocreationlinks contains link.svglabel %}
               let {{ link.svglabel }} = mySvg.getElementById("{{ link.svglabel }}");
-              {% if link.active == "yes" %}
 
-                // Add click to open resource link
-                {{ link.svglabel }}.addEventListener("click", event => {
-                  event.stopPropagation();
-                  // open the link in new tab
-                  window.open("{{ link.main_link }}", "_blank");
-                });
+    try {
+                {% if link.active == "yes" %}
 
-                // Add mouseover effect on link
-                {{ link.svglabel }}.addEventListener("mouseover", event => {
-                  // first 4 characters of svg label link to the text field to use for info
-                  {{ link.svglabel | slice: 0, 4 }}txt.children[0].children[0].textContent = ""
-                  {{ link.svglabel | slice: 0, 4 }}txt.children[0].children[0].append("{{ link.title }} ");
-                  {{ link.svglabel | slice: 0, 4 }}txt.children[0].children[0].style = "font-weight:bold;font-size:16px;"
-                  console.log({{ link.svglabel | slice: 0, 4 }}url)
-                  {{ link.svglabel | slice: 0, 4 }}url.setAttribute("xlink:href", "{{ link.main_link }}")
-                  // put rest of the text in.
-                  var chunks = divideTextIntoChunks('{{link.text }}');
-                  var lench = chunks.length;
-                  if (lench > 14) lench = 14;
-                  for (var j=0; j < lench; j += 1) {
-                    {{ link.svglabel | slice: 0, 4 }}txt.children[j+1].children[0].textContent = "";
-                    {{ link.svglabel | slice: 0, 4 }}txt.children[j+1].children[0].append(chunks[j]);
-                  }
-                  for (var j=lench; j < 15; j += 1) {
-                    {{ link.svglabel | slice: 0, 4 }}txt.children[j+1].children[0].textContent = "";
-                  }
-                 
-                  //c1c1txt.children[1].children[0].textContent = ""
-                  //c1c1txt.children[1].children[0].append("{{link.text }} ");
-                  //textc1.textContent = "{{ link.title }}";
-                  //console.log(c1c1txt);
-                  {{ link.svglabel }}.style.filter = "brightness(75%)";
-                  {{ link.svglabel }}.style.cursor = "pointer";
-                });
-                // corresponsing mouse out event
-                {{ link.svglabel }}.addEventListener("mouseout", event => {
-                  // Change the fill color to highlight the SVG element
-                  {{ link.svglabel }}.style.filter = "brightness(100%)";
-                }); 
-              {% else %}
-                // hide the link, it is not active
-                {{ link.svglabel }}.style.display = "none";
+                  // Add click to open resource link
+                  {{ link.svglabel }}.addEventListener("click", event => {
+                    event.stopPropagation();
+                    // open the link in new tab
+                    window.open("{{ link.main_link }}", "_blank");
+                  });
+
+                  // Add mouseover effect on link
+                  {{ link.svglabel }}.addEventListener("mouseover", event => {
+                    // first 4 characters of svg label link to the text field to use for info
+                    {{ link.svglabel | slice: 0, 4 }}txt.children[0].children[0].textContent = ""
+                    {{ link.svglabel | slice: 0, 4 }}txt.children[0].children[0].append("{{ link.title }} ");
+                    {{ link.svglabel | slice: 0, 4 }}txt.children[0].children[0].style = "font-weight:bold;font-size:16px;"
+                    console.log({{ link.svglabel | slice: 0, 4 }}url)
+                    {{ link.svglabel | slice: 0, 4 }}url.setAttribute("xlink:href", "{{ link.main_link }}")
+                    // put rest of the text in.
+                    var chunks = divideTextIntoChunks('{{link.text }}');
+                    var lench = chunks.length;
+                    if (lench > 14) lench = 14;
+                    for (var j=0; j < lench; j += 1) {
+                      {{ link.svglabel | slice: 0, 4 }}txt.children[j+1].children[0].textContent = "";
+                      {{ link.svglabel | slice: 0, 4 }}txt.children[j+1].children[0].append(chunks[j]);
+                    }
+                    for (var j=lench; j < 15; j += 1) {
+                      {{ link.svglabel | slice: 0, 4 }}txt.children[j+1].children[0].textContent = "";
+                    }
+
+                    //c1c1txt.children[1].children[0].textContent = ""
+                    //c1c1txt.children[1].children[0].append("{{link.text }} ");
+                    //textc1.textContent = "{{ link.title }}";
+                    //console.log(c1c1txt);
+                    {{ link.svglabel }}.style.filter = "brightness(75%)";
+                    {{ link.svglabel }}.style.cursor = "pointer";
+                  });
+                  // corresponsing mouse out event
+                  {{ link.svglabel }}.addEventListener("mouseout", event => {
+                    // Change the fill color to highlight the SVG element
+                    {{ link.svglabel }}.style.filter = "brightness(100%)";
+                  }); 
+                {% else %}
+                  // hide the link, it is not active
+                  {{ link.svglabel }}.style.display = "none";
+                {% endif %}
+        } catch (e) {
+        console.log(e);
+                  // hide the link, something is not working
+                  {{ link.svglabel }}.style.display = "none";
+    }
+
               {% endif %}
             {% endfor %}
+            
+            // same as above for links to the extendt2 tools
+            {% for link in site.data.courselinks.cocreationlinksExtendt2 %}  
+              {% if site.data.possiblecourselinks.poscocreationlinksExtendt2 contains link.svglabel %}
+              let {{ link.svglabel }} = mySvg.getElementById("{{ link.svglabel }}");
+
+    try {
+                {% if link.active == "yes" %}
+
+                  // Add click to open resource link
+                  {{ link.svglabel }}.addEventListener("click", event => {
+                    event.stopPropagation();
+                    // open the link in new tab
+                    window.open("{{ link.main_link }}", "_blank");
+                  });
+
+                  // Add mouseover effect on link
+                  {{ link.svglabel }}.addEventListener("mouseover", event => {
+                    // first 4 characters of svg label link to the text field to use for info
+                    {{ link.svglabel | slice: 0, 4 }}txt.children[0].children[0].textContent = ""
+                    {{ link.svglabel | slice: 0, 4 }}txt.children[0].children[0].append("{{ link.title }} ");
+                    {{ link.svglabel | slice: 0, 4 }}txt.children[0].children[0].style = "font-weight:bold;font-size:16px;"
+                    console.log({{ link.svglabel | slice: 0, 4 }}url)
+                    {{ link.svglabel | slice: 0, 4 }}url.setAttribute("xlink:href", "{{ link.main_link }}")
+                    // put rest of the text in.
+                    var chunks = divideTextIntoChunks('{{link.text }}');
+                    var lench = chunks.length;
+                    if (lench > 14) lench = 14;
+                    for (var j=0; j < lench; j += 1) {
+                      {{ link.svglabel | slice: 0, 4 }}txt.children[j+1].children[0].textContent = "";
+                      {{ link.svglabel | slice: 0, 4 }}txt.children[j+1].children[0].append(chunks[j]);
+                    }
+                    for (var j=lench; j < 15; j += 1) {
+                      {{ link.svglabel | slice: 0, 4 }}txt.children[j+1].children[0].textContent = "";
+                    }
+
+                    //c1c1txt.children[1].children[0].textContent = ""
+                    //c1c1txt.children[1].children[0].append("{{link.text }} ");
+                    //textc1.textContent = "{{ link.title }}";
+                    //console.log(c1c1txt);
+                    {{ link.svglabel }}.style.filter = "brightness(75%)";
+                    {{ link.svglabel }}.style.cursor = "pointer";
+                  });
+                  // corresponsing mouse out event
+                  {{ link.svglabel }}.addEventListener("mouseout", event => {
+                    // Change the fill color to highlight the SVG element
+                    {{ link.svglabel }}.style.filter = "brightness(100%)";
+                  }); 
+                {% else %}
+                  // hide the link, it is not active
+                  {{ link.svglabel }}.style.display = "none";
+                {% endif %}
+        } catch (e) {
+        console.log(e);
+                  // hide the link, something is not working
+                  {{ link.svglabel }}.style.display = "none";
+    }
+
+              {% endif %}
+            {% endfor %}
+
+            // same as above for the links to the examples:
+            {% for link in site.data.courselinks.cocreationlinksExamples %}  
+              {% if site.data.possiblecourselinks.poscocreationlinksExamples contains link.svglabel %}
+              let {{ link.svglabel }} = mySvg.getElementById("{{ link.svglabel }}");
+
+    try {
+                {% if link.active == "yes" %}
+
+                  // Add click to open resource link
+                  {{ link.svglabel }}.addEventListener("click", event => {
+                    event.stopPropagation();
+                    // open the link in new tab
+                    window.open("{{ link.main_link }}", "_blank");
+                  });
+
+                  // Add mouseover effect on link
+                  {{ link.svglabel }}.addEventListener("mouseover", event => {
+                    // first 4 characters of svg label link to the text field to use for info
+                    {{ link.svglabel | slice: 0, 4 }}txt.children[0].children[0].textContent = ""
+                    {{ link.svglabel | slice: 0, 4 }}txt.children[0].children[0].append("{{ link.title }} ");
+                    {{ link.svglabel | slice: 0, 4 }}txt.children[0].children[0].style = "font-weight:bold;font-size:16px;"
+                    console.log({{ link.svglabel | slice: 0, 4 }}url)
+                    {{ link.svglabel | slice: 0, 4 }}url.setAttribute("xlink:href", "{{ link.main_link }}")
+                    // put rest of the text in.
+                    var chunks = divideTextIntoChunks('{{link.text }}');
+                    var lench = chunks.length;
+                    if (lench > 14) lench = 14;
+                    for (var j=0; j < lench; j += 1) {
+                      {{ link.svglabel | slice: 0, 4 }}txt.children[j+1].children[0].textContent = "";
+                      {{ link.svglabel | slice: 0, 4 }}txt.children[j+1].children[0].append(chunks[j]);
+                    }
+                    for (var j=lench; j < 15; j += 1) {
+                      {{ link.svglabel | slice: 0, 4 }}txt.children[j+1].children[0].textContent = "";
+                    }
+
+                    //c1c1txt.children[1].children[0].textContent = ""
+                    //c1c1txt.children[1].children[0].append("{{link.text }} ");
+                    //textc1.textContent = "{{ link.title }}";
+                    //console.log(c1c1txt);
+                    {{ link.svglabel }}.style.filter = "brightness(75%)";
+                    {{ link.svglabel }}.style.cursor = "pointer";
+                  });
+                  // corresponsing mouse out event
+                  {{ link.svglabel }}.addEventListener("mouseout", event => {
+                    // Change the fill color to highlight the SVG element
+                    {{ link.svglabel }}.style.filter = "brightness(100%)";
+                  }); 
+                {% else %}
+                  // hide the link, it is not active
+                  {{ link.svglabel }}.style.display = "none";
+                {% endif %}
+        } catch (e) {
+        console.log(e);
+                  // hide the link, something is not working
+                  {{ link.svglabel }}.style.display = "none";
+    }
+
+              {% endif %}
+            {% endfor %}
+
           });
            
         </script>

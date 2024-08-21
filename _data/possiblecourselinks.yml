@@ -1,0 +1,560 @@
+poscocreationlinks:
+# continent 1: Empathise & understand
+#   country 1: Empathise country
+#    region 1: High immersion
+  - "c1c1r1link1"  
+  - "c1c1r1link2"
+  - "c1c1r1link3"
+  - "c1c1r1link4"
+  - "c1c1r1link5"
+  - "c1c1r1link6"
+  - "c1c1r1link7"
+  - "c1c1r1link8"
+  - "c1c1r1link9"
+#    region 2: Lower immersion
+  - "c1c1r2link1"
+  - "c1c1r2link2"
+  - "c1c1r2link3"
+  - "c1c1r2link4"
+  - "c1c1r2link5"
+  - "c1c1r2link6"
+  - "c1c1r2link7"
+  - "c1c1r2link8"
+  - "c1c1r2link9"
+#   country 2: Explore country
+#    region 1: Audience Defining
+  - "c1c2r1link1"  
+  - "c1c2r1link2"
+  - "c1c2r1link3"
+  - "c1c2r1link4"
+  - "c1c2r1link5"
+  - "c1c2r1link6"
+  - "c1c2r1link7"
+  - "c1c2r1link8"
+  - "c1c2r1link9"
+#    region 2: Frame project
+  - "c1c2r2link1"
+  - "c1c2r2link2"
+  - "c1c2r2link3"
+  - "c1c2r2link4"
+  - "c1c2r2link5"
+  - "c1c2r2link6"
+  - "c1c2r2link7"
+  - "c1c2r2link8"
+  - "c1c2r2link9"
+#    region 3: Project Planning
+  - "c1c2r3link1"  
+  - "c1c2r3link2"
+  - "c1c2r3link3"
+  - "c1c2r3link4"
+  - "c1c2r3link5"
+  - "c1c2r3link6"
+  - "c1c2r3link7"
+  - "c1c2r3link8"
+  - "c1c2r3link9"
+#    region 4: Literature Search
+  - "c1c2r4link1"
+  - "c1c2r4link2"
+  - "c1c2r4link3"
+  - "c1c2r4link4"
+  - "c1c2r4link5"
+  - "c1c2r4link6"
+  - "c1c2r4link7"
+  - "c1c2r4link8"
+  - "c1c2r4link9"
+# continent 2: Define & Ideate
+#   country 1: Contextualize and setting criteria country
+#    region 1: Mapping out
+  - "c2c1r1link1"  
+  - "c2c1r1link2"
+  - "c2c1r1link3"
+  - "c2c1r1link4"
+  - "c2c1r1link5"
+  - "c2c1r1link6"
+  - "c2c1r1link7"
+  - "c2c1r1link8"
+  - "c2c1r1link9"
+#    region 2: Find themes and insights
+  - "c2c1r2link1"
+  - "c2c1r2link2"
+  - "c2c1r2link3"
+  - "c2c1r2link4"
+  - "c2c1r2link5"
+  - "c2c1r2link6"
+  - "c2c1r2link7"
+  - "c2c1r2link8"
+  - "c2c1r2link9"
+#    region 3: Setting Criteria
+  - "c2c1r3link1"
+  - "c2c1r3link2"
+  - "c2c1r3link3"
+  - "c2c1r3link4"
+  - "c2c1r3link5"
+  - "c2c1r3link6"
+  - "c2c1r3link7"
+  - "c2c1r3link8"
+  - "c2c1r3link9"
+#   country 2: Ideation country
+#    region 1: Ideation
+  - "c2c2r1link1"  
+  - "c2c2r1link2"
+  - "c2c2r1link3"
+  - "c2c2r1link4"
+  - "c2c2r1link5"
+  - "c2c2r1link6"
+  - "c2c2r1link7"
+  - "c2c2r1link8"
+  - "c2c2r1link9"
+#    region 2: Brainstorming
+  - "c2c2r2link1"
+  - "c2c2r2link2"
+  - "c2c2r2link3"
+  - "c2c2r2link4"
+  - "c2c2r2link5"
+  - "c2c2r2link6"
+  - "c2c2r2link7"
+  - "c2c2r2link8"
+  - "c2c2r2link9"
+# continent 3: Rapid prototyping & iteration
+#   country 1: Prototype country
+#    region 1: Low Fidelity
+  - "c3c1r1link1"  
+  - "c3c1r1link2"
+  - "c3c1r1link3"
+  - "c3c1r1link4"
+  - "c3c1r1link5"
+  - "c3c1r1link6"
+  - "c3c1r1link7"
+  - "c3c1r1link8"
+  - "c3c1r1link9"
+#    region 2: High Fidelity
+  - "c3c1r2link1"
+  - "c3c1r2link2"
+  - "c3c1r2link3"
+  - "c3c1r2link4"
+  - "c3c1r2link5"
+  - "c3c1r2link6"
+  - "c3c1r2link7"
+  - "c3c1r2link8"
+  - "c3c1r2link9"
+#   country 2: Testing while developing country
+#    region 1: Test evaluate
+  - "c3c2r1link1"  
+  - "c3c2r1link2"
+  - "c3c2r1link3"
+  - "c3c2r1link4"
+  - "c3c2r1link5"
+  - "c3c2r1link6"
+  - "c3c2r1link7"
+  - "c3c2r1link8"
+  - "c3c2r1link9"
+# continent 4: Sharing & Feedback
+#   country 1: Sharing country
+#    region 1: Prepare to share
+  - "c4c1r1link1"  
+  - "c4c1r1link2"
+  - "c4c1r1link3"
+  - "c4c1r1link4"
+  - "c4c1r1link5"
+  - "c4c1r1link6"
+  - "c4c1r1link7"
+  - "c4c1r1link8"
+  - "c4c1r1link9"
+#    region 2: Share
+  - "c4c1r2link1"
+  - "c4c1r2link2"
+  - "c4c1r2link3"
+  - "c4c1r2link4"
+  - "c4c1r2link5"
+  - "c4c1r2link6"
+  - "c4c1r2link7"
+  - "c4c1r2link8"
+  - "c4c1r2link9"
+#   country 2: Feedback country
+#    region 1: Sollicit Feedback
+  - "c4c2r1link1"  
+  - "c4c2r1link2"
+  - "c4c2r1link3"
+  - "c4c2r1link4"
+  - "c4c2r1link5"
+  - "c4c2r1link6"
+  - "c4c2r1link7"
+  - "c4c2r1link8"
+  - "c4c2r1link9"
+#    region 2: Analyze Feedback
+  - "c4c2r2link1"
+  - "c4c2r2link2"
+  - "c4c2r2link3"
+  - "c4c2r2link4"
+  - "c4c2r2link5"
+  - "c4c2r2link6"
+  - "c4c2r2link7"
+  - "c4c2r2link8"
+  - "c4c2r2link9"
+# continent 5: Respond & Deliver
+#   country 1: Final Testing country
+#    region 1: React on Feedback
+  - "c5c1r1link1"  
+  - "c5c1r1link2"
+  - "c5c1r1link3"
+  - "c5c1r1link4"
+  - "c5c1r1link5"
+  - "c5c1r1link6"
+  - "c5c1r1link7"
+  - "c5c1r1link8"
+  - "c5c1r1link9"
+#    region 2: Final Testing
+  - "c5c1r2link1"
+  - "c5c1r2link2"
+  - "c5c1r2link3"
+  - "c5c1r2link4"
+  - "c5c1r2link5"
+  - "c5c1r2link6"
+  - "c5c1r2link7"
+  - "c5c1r2link8"
+  - "c5c1r2link9"
+#   country 2: Presenting work country
+#    region 1: Preparing for presenting
+  - "c5c2r1link1"  
+  - "c5c2r1link2"
+  - "c5c2r1link3"
+  - "c5c2r1link4"
+  - "c5c2r1link5"
+  - "c5c2r1link6"
+  - "c5c2r1link7"
+  - "c5c2r1link8"
+  - "c5c2r1link9"
+#    region 2: Pitching
+  - "c5c2r2link1"
+  - "c5c2r2link2"
+  - "c5c2r2link3"
+  - "c5c2r2link4"
+  - "c5c2r2link5"
+  - "c5c2r2link6"
+  - "c5c2r2link7"
+  - "c5c2r2link8"
+  - "c5c2r2link9"
+#   country 3: Project Afterlife country
+#    region 1: Project Afterlife
+  - "c5c3r1link1"  
+  - "c5c3r1link2"
+  - "c5c3r1link3"
+  - "c5c3r1link4"
+  - "c5c3r1link5"
+  - "c5c3r1link6"
+  - "c5c3r1link7"
+  - "c5c3r1link8"
+  - "c5c3r1link9"
+
+poscocreationlinksExtendt2:
+# continent 1: Empathise & understand
+#   country 1: Empathise country
+#    region 1: High immersion
+  - "c1c1r1linke1"  
+  - "c1c1r1linke2"
+  - "c1c1r1linke3"
+  - "c1c1r1linke4"
+  - "c1c1r1linke5"
+#    region 2: Lower immersion
+  - "c1c1r2linke1"
+  - "c1c1r2linke2"
+  - "c1c1r2linke3"
+  - "c1c1r2linke4"
+  - "c1c1r2linke5"
+#   country 2: Explore country
+#    region 1: Audience Defining
+  - "c1c2r1linke1"  
+  - "c1c2r1linke2"
+  - "c1c2r1linke3"
+  - "c1c2r1linke4"
+  - "c1c2r1linke5"
+#    region 2: Frame project
+  - "c1c2r2linke1"
+  - "c1c2r2linke2"
+  - "c1c2r2linke3"
+  - "c1c2r2linke4"
+  - "c1c2r2linke5"
+#    region 3: Project Planning
+  - "c1c2r3linke1"  
+  - "c1c2r3linke2"
+  - "c1c2r3linke3"
+  - "c1c2r3linke4"
+  - "c1c2r3linke5"
+#    region 4: Literature Search
+  - "c1c2r4linke1"
+  - "c1c2r4linke2"
+  - "c1c2r4linke3"
+  - "c1c2r4linke4"
+  - "c1c2r4linke5"
+# continent 2: Define & Ideate
+#   country 1: Contextualize and setting criteria country
+#    region 1: Mapping out
+  - "c2c1r1linke1"  
+  - "c2c1r1linke2"
+  - "c2c1r1linke3"
+  - "c2c1r1linke4"
+  - "c2c1r1linke5"
+#    region 2: Find themes and insights
+  - "c2c1r2linke1"
+  - "c2c1r2linke2"
+  - "c2c1r2linke3"
+  - "c2c1r2linke4"
+  - "c2c1r2linke5"
+#    region 3: Setting Criteria
+  - "c2c1r3linke1"
+  - "c2c1r3linke2"
+  - "c2c1r3linke3"
+  - "c2c1r3linke4"
+  - "c2c1r3linke5"
+#   country 2: Ideation country
+#    region 1: Ideation
+  - "c2c2r1linke1"  
+  - "c2c2r1linke2"
+  - "c2c2r1linke3"
+  - "c2c2r1linke4"
+  - "c2c2r1linke5"
+#    region 2: Brainstorming
+  - "c2c2r2linke1"
+  - "c2c2r2linke2"
+  - "c2c2r2linke3"
+  - "c2c2r2linke4"
+  - "c2c2r2linke5"
+# continent 3: Rapid prototyping & iteration
+#   country 1: Prototype country
+#    region 1: Low Fidelity
+  - "c3c1r1linke1"  
+  - "c3c1r1linke2"
+  - "c3c1r1linke3"
+  - "c3c1r1linke4"
+  - "c3c1r1linke5"
+#    region 2: High Fidelity
+  - "c3c1r2linke1"
+  - "c3c1r2linke2"
+  - "c3c1r2linke3"
+  - "c3c1r2linke4"
+  - "c3c1r2linke5"
+#   country 2: Testing while developing country
+#    region 1: Test evaluate
+  - "c3c2r1linke1"  
+  - "c3c2r1linke2"
+  - "c3c2r1linke3"
+  - "c3c2r1linke4"
+  - "c3c2r1linke5"
+# continent 4: Sharing & Feedback
+#   country 1: Sharing country
+#    region 1: Prepare to share
+  - "c4c1r1linke1"  
+  - "c4c1r1linke2"
+  - "c4c1r1linke3"
+  - "c4c1r1linke4"
+  - "c4c1r1linke5"
+#    region 2: Share
+  - "c4c1r2linke1"
+  - "c4c1r2linke2"
+  - "c4c1r2linke3"
+  - "c4c1r2linke4"
+  - "c4c1r2linke5"
+#   country 2: Feedback country
+#    region 1: Sollicit Feedback
+  - "c4c2r1linke1"  
+  - "c4c2r1linke2"
+  - "c4c2r1linke3"
+  - "c4c2r1linke4"
+  - "c4c2r1linke5"
+#    region 2: Analyze Feedback
+  - "c4c2r2linke1"
+  - "c4c2r2linke2"
+  - "c4c2r2linke3"
+  - "c4c2r2linke4"
+  - "c4c2r2linke5"
+# continent 5: Respond & Deliver
+#   country 1: Final Testing country
+#    region 1: React on Feedback
+  - "c5c1r1linke1"  
+  - "c5c1r1linke2"
+  - "c5c1r1linke3"
+  - "c5c1r1linke4"
+  - "c5c1r1linke5"
+#    region 2: Final Testing
+  - "c5c1r2linke1"
+  - "c5c1r2linke2"
+  - "c5c1r2linke3"
+  - "c5c1r2linke4"
+  - "c5c1r2linke5"
+#   country 2: Presenting work country
+#    region 1: Preparing for presenting
+  - "c5c2r1linke1"  
+  - "c5c2r1linke2"
+  - "c5c2r1linke3"
+  - "c5c2r1linke4"
+  - "c5c2r1linke5"
+#    region 2: Pitching
+  - "c5c2r2linke1"
+  - "c5c2r2linke2"
+  - "c5c2r2linke3"
+  - "c5c2r2linke4"
+  - "c5c2r2linke5"
+#   country 3: Project Afterlife country
+#    region 1: Project Afterlife
+  - "c5c3r1linke1"  
+  - "c5c3r1linke2"
+  - "c5c3r1linke3"
+  - "c5c3r1linke4"
+  - "c5c3r1linke5"
+  
+poscocreationlinksExamples:
+# continent 1: Empathise & understand
+#   country 1: Empathise country
+#    region 1: High immersion
+  - "c1c1r1linkex1"  
+  - "c1c1r1linkex2"
+  - "c1c1r1linkex3"
+  - "c1c1r1linkex4"
+  - "c1c1r1linkex5"
+#    region 2: Lower immersion
+  - "c1c1r2linkex1"
+  - "c1c1r2linkex2"
+  - "c1c1r2linkex3"
+  - "c1c1r2linkex4"
+  - "c1c1r2linkex5"
+#   country 2: Explore country
+#    region 1: Audience Defining
+  - "c1c2r1linkex1"  
+  - "c1c2r1linkex2"
+  - "c1c2r1linkex3"
+  - "c1c2r1linkex4"
+  - "c1c2r1linkex5"
+#    region 2: Frame project
+  - "c1c2r2linkex1"
+  - "c1c2r2linkex2"
+  - "c1c2r2linkex3"
+  - "c1c2r2linkex4"
+  - "c1c2r2linkex5"
+#    region 3: Project Planning
+  - "c1c2r3linkex1"  
+  - "c1c2r3linkex2"
+  - "c1c2r3linkex3"
+  - "c1c2r3linkex4"
+  - "c1c2r3linkex5"
+#    region 4: Literature Search
+  - "c1c2r4linkex1"
+  - "c1c2r4linkex2"
+  - "c1c2r4linkex3"
+  - "c1c2r4linkex4"
+  - "c1c2r4linkex5"
+# continent 2: Define & Ideate
+#   country 1: Contextualize and setting criteria country
+#    region 1: Mapping out
+  - "c2c1r1linkex1"  
+  - "c2c1r1linkex2"
+  - "c2c1r1linkex3"
+  - "c2c1r1linkex4"
+  - "c2c1r1linkex5"
+#    region 2: Find themes and insights
+  - "c2c1r2linkex1"
+  - "c2c1r2linkex2"
+  - "c2c1r2linkex3"
+  - "c2c1r2linkex4"
+  - "c2c1r2linkex5"
+#    region 3: Setting Criteria
+  - "c2c1r3linkex1"
+  - "c2c1r3linkex2"
+  - "c2c1r3linkex3"
+  - "c2c1r3linkex4"
+  - "c2c1r3linkex5"
+#   country 2: Ideation country
+#    region 1: Ideation
+  - "c2c2r1linkex1"  
+  - "c2c2r1linkex2"
+  - "c2c2r1linkex3"
+  - "c2c2r1linkex4"
+  - "c2c2r1linkex5"
+#    region 2: Brainstorming
+  - "c2c2r2linkex1"
+  - "c2c2r2linkex2"
+  - "c2c2r2linkex3"
+  - "c2c2r2linkex4"
+  - "c2c2r2linkex5"
+# continent 3: Rapid prototyping & iteration
+#   country 1: Prototype country
+#    region 1: Low Fidelity
+  - "c3c1r1linkex1"  
+  - "c3c1r1linkex2"
+  - "c3c1r1linkex3"
+  - "c3c1r1linkex4"
+  - "c3c1r1linkex5"
+#    region 2: High Fidelity
+  - "c3c1r2linkex1"
+  - "c3c1r2linkex2"
+  - "c3c1r2linkex3"
+  - "c3c1r2linkex4"
+  - "c3c1r2linkex5"
+#   country 2: Testing while developing country
+#    region 1: Test evaluate
+  - "c3c2r1linkex1"  
+  - "c3c2r1linkex2"
+  - "c3c2r1linkex3"
+  - "c3c2r1linkex4"
+  - "c3c2r1linkex5"
+# continent 4: Sharing & Feedback
+#   country 1: Sharing country
+#    region 1: Prepare to share
+  - "c4c1r1linkex1"  
+  - "c4c1r1linkex2"
+  - "c4c1r1linkex3"
+  - "c4c1r1linkex4"
+  - "c4c1r1linkex5"
+#    region 2: Share
+  - "c4c1r2linkex1"
+  - "c4c1r2linkex2"
+  - "c4c1r2linkex3"
+  - "c4c1r2linkex4"
+  - "c4c1r2linkex5"
+#   country 2: Feedback country
+#    region 1: Sollicit Feedback
+  - "c4c2r1linkex1"  
+  - "c4c2r1linkex2"
+  - "c4c2r1linkex3"
+  - "c4c2r1linkex4"
+  - "c4c2r1linkex5"
+#    region 2: Analyze Feedback
+  - "c4c2r2linkex1"
+  - "c4c2r2linkex2"
+  - "c4c2r2linkex3"
+  - "c4c2r2linkex4"
+  - "c4c2r2linkex5"
+# continent 5: Respond & Deliver
+#   country 1: Final Testing country
+#    region 1: React on Feedback
+  - "c5c1r1linkex1"  
+  - "c5c1r1linkex2"
+  - "c5c1r1linkex3"
+  - "c5c1r1linkex4"
+  - "c5c1r1linkex5"
+#    region 2: Final Testing
+  - "c5c1r2linkex1"
+  - "c5c1r2linkex2"
+  - "c5c1r2linkex3"
+  - "c5c1r2linkex4"
+  - "c5c1r2linkex5"
+#   country 2: Presenting work country
+#    region 1: Preparing for presenting
+  - "c5c2r1linkex1"  
+  - "c5c2r1linkex2"
+  - "c5c2r1linkex3"
+  - "c5c2r1linkex4"
+  - "c5c2r1linkex5"
+#    region 2: Pitching
+  - "c5c2r2linkex1"
+  - "c5c2r2linkex2"
+  - "c5c2r2linkex3"
+  - "c5c2r2linkex4"
+  - "c5c2r2linkex5"
+#   country 3: Project Afterlife country
+#    region 1: Project Afterlife
+  - "c5c3r1linkex1"  
+  - "c5c3r1linkex2"
+  - "c5c3r1linkex3"
+  - "c5c3r1linkex4"
+  - "c5c3r1linkex5"
+  

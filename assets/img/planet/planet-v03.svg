@@ -21268,7 +21268,57 @@
        clipPathUnits="userSpaceOnUse"
        id="clipPath694-0-6-4"><path
          d="M 1573.18,450.291 H 1730.2 V 392.688 H 1573.18 Z"
-         id="path692-8-5-1" /></clipPath></defs><sodipodi:namedview
+         id="path692-8-5-1" /></clipPath><rect
+       x="9.6867981"
+       y="159.19873"
+       width="214.44867"
+       height="374.19684"
+       id="rect85069" /><rect
+       x="9.6867981"
+       y="159.19873"
+       width="214.44867"
+       height="374.19684"
+       id="rect85173" /><rect
+       x="9.6867981"
+       y="159.19873"
+       width="214.44867"
+       height="374.19684"
+       id="rect85277" /><rect
+       x="9.6867981"
+       y="159.19873"
+       width="214.44867"
+       height="374.19684"
+       id="rect85381" /><rect
+       x="9.6867981"
+       y="159.19873"
+       width="214.44867"
+       height="374.19684"
+       id="rect85485" /><rect
+       x="9.6867981"
+       y="159.19873"
+       width="214.44867"
+       height="374.19684"
+       id="rect85589" /><rect
+       x="9.6867981"
+       y="159.19873"
+       width="214.44867"
+       height="374.19684"
+       id="rect85693" /><rect
+       x="9.6867981"
+       y="159.19873"
+       width="214.44867"
+       height="374.19684"
+       id="rect85797" /><rect
+       x="9.6867981"
+       y="159.19873"
+       width="214.44867"
+       height="374.19684"
+       id="rect85901" /><rect
+       x="9.6867981"
+       y="159.19873"
+       width="214.44867"
+       height="374.19684"
+       id="rect86005" /></defs><sodipodi:namedview
      id="namedview894"
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -21278,14 +21328,14 @@
      inkscape:pagecheckerboard="0"
      showgrid="false"
      inkscape:zoom="1.28"
-     inkscape:cx="603.51562"
-     inkscape:cy="261.32812"
-     inkscape:window-width="1745"
-     inkscape:window-height="992"
-     inkscape:window-x="2007"
-     inkscape:window-y="25"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="layerregion01country02"
+     inkscape:cx="583.59375"
+     inkscape:cy="240.625"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="presentCcountry"
      inkscape:snap-global="false"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -21405,7 +21455,69 @@
          x="101.73837"
          y="-829.68372"
          style="font-weight:normal;stroke-width:0.456"
-         id="tspan12574">steps of Design Thinking in a natural way.</tspan></text><g
+         id="tspan12574">steps of Design Thinking in a natural way.</tspan><tspan
+         sodipodi:role="line"
+         x="101.73837"
+         y="-813.86432"
+         style="font-weight:normal;stroke-width:0.456"
+         id="tspan13363" /><tspan
+         sodipodi:role="line"
+         x="101.73837"
+         y="-798.04492"
+         style="font-weight:normal;stroke-width:0.456"
+         id="tspan13365">You have a <tspan
+   style="font-weight:bold"
+   id="tspan15399">challenge</tspan>. Describe the problem or</tspan><tspan
+         sodipodi:role="line"
+         x="101.73837"
+         y="-782.22552"
+         style="font-weight:normal;stroke-width:0.456"
+         id="tspan14703">the topic you seek to solve in 1-2 sentences.</tspan><tspan
+         sodipodi:role="line"
+         x="101.73837"
+         y="-766.40619"
+         style="font-weight:normal;stroke-width:0.456"
+         id="tspan14705" /><tspan
+         sodipodi:role="line"
+         x="101.73837"
+         y="-750.58679"
+         style="font-weight:normal;stroke-width:0.456"
+         id="tspan14707">Then embark on a design thinking journey </tspan><tspan
+         sodipodi:role="line"
+         x="101.73837"
+         y="-734.7674"
+         style="font-weight:normal;stroke-width:0.456"
+         id="tspan14709">with our co-creation planet. Through this </tspan><tspan
+         sodipodi:role="line"
+         x="101.73837"
+         y="-718.948"
+         style="font-weight:normal;stroke-width:0.456"
+         id="tspan22909">journey, you work towards a specific outcome.</tspan><tspan
+         sodipodi:role="line"
+         x="101.73837"
+         y="-703.1286"
+         style="font-weight:normal;stroke-width:0.456"
+         id="tspan46253" /><tspan
+         sodipodi:role="line"
+         x="101.73837"
+         y="-687.30927"
+         style="font-weight:normal;stroke-width:0.456"
+         id="tspan24975">Describe this outcome in generic terms before</tspan><tspan
+         sodipodi:role="line"
+         x="101.73837"
+         y="-671.48987"
+         style="font-weight:normal;stroke-width:0.456"
+         id="tspan24977">you start your journey.</tspan><tspan
+         sodipodi:role="line"
+         x="101.73837"
+         y="-655.67047"
+         style="font-weight:normal;stroke-width:0.456"
+         id="tspan24979" /><tspan
+         sodipodi:role="line"
+         x="101.73837"
+         y="-639.85107"
+         style="font-weight:normal;stroke-width:0.456"
+         id="tspan32761" /></text><g
        id="cont1"
        class="webhover"><path
          id="cont1_base"
@@ -22080,7 +22192,7 @@
            id="tspan72351-5"
            x="492.66382"
            y="215.38902"
-           style="font-weight:bold;stroke-width:0.607999">EMPATHIZE</tspan><tspan
+           style="font-weight:bold;stroke-width:0.607999">EMPATHISE</tspan><tspan
            sodipodi:role="line"
            x="492.66382"
            y="233.62903"
@@ -22099,7 +22211,7 @@
            id="tspan72351-5-0"
            x="754.04504"
            y="111.00803"
-           style="font-weight:bold;stroke-width:0.607999">EXPLORING</tspan><tspan
+           style="font-weight:bold;stroke-width:0.607999">UNDERSTAND</tspan><tspan
            sodipodi:role="line"
            x="754.04504"
            y="129.24803"
@@ -22392,11 +22504,11 @@
            id="text782-9"
            x="741.04468"
            y="52.677952"><tspan
-             x="741.04468 747.90985 755.67566 763.5589 769.85504 778.19513 785.88257 789.8764 798.32086"
-             y="52.677952"
              sodipodi:role="line"
              id="tspan780-3"
-             style="fill:#aeaeae;fill-opacity:1;stroke-width:0.652585">EXPLORING</tspan></text><text
+             style="fill:#aeaeae;fill-opacity:1;stroke-width:0.652585"
+             x="741.04468"
+             y="52.677952">UNDERSTAND</tspan></text><text
            style="font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:13.0518px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Bold;writing-mode:lr-tb;display:inline;fill:#aeaeae;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.652585"
            id="text786-2"
            x="746.2832"
@@ -22944,99 +23056,99 @@
          transform="translate(1.937439,-44.99234)"><tspan
            x="9.6875"
            y="173.19922"
-           id="tspan84939"><tspan
+           id="tspan174044"><tspan
              style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
-             id="tspan84937"> 
+             id="tspan174042"> 
 </tspan></tspan><tspan
            x="9.6875"
            y="193.19922"
-           id="tspan84943"><tspan
+           id="tspan174048"><tspan
              style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
-             id="tspan84941"> 
+             id="tspan174046"> 
 </tspan></tspan><tspan
            x="9.6875"
            y="213.19922"
-           id="tspan84947"><tspan
+           id="tspan174052"><tspan
              style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
-             id="tspan84945"> 
+             id="tspan174050"> 
 </tspan></tspan><tspan
            x="9.6875"
            y="233.19922"
-           id="tspan84951"><tspan
+           id="tspan174056"><tspan
              style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
-             id="tspan84949"> 
+             id="tspan174054"> 
 </tspan></tspan><tspan
            x="9.6875"
            y="253.19922"
-           id="tspan84955"><tspan
+           id="tspan174060"><tspan
              style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
-             id="tspan84953"> 
+             id="tspan174058"> 
 </tspan></tspan><tspan
            x="9.6875"
            y="273.19922"
-           id="tspan84959"><tspan
+           id="tspan174064"><tspan
              style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
-             id="tspan84957"> 
+             id="tspan174062"> 
 </tspan></tspan><tspan
            x="9.6875"
            y="293.19922"
-           id="tspan84963"><tspan
+           id="tspan174068"><tspan
              style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
-             id="tspan84961"> 
+             id="tspan174066"> 
 </tspan></tspan><tspan
            x="9.6875"
            y="313.19922"
-           id="tspan84967"><tspan
+           id="tspan174072"><tspan
              style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
-             id="tspan84965"> 
+             id="tspan174070"> 
 </tspan></tspan><tspan
            x="9.6875"
            y="333.19922"
-           id="tspan84971"><tspan
+           id="tspan174076"><tspan
              style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
-             id="tspan84969"> 
+             id="tspan174074"> 
 </tspan></tspan><tspan
            x="9.6875"
            y="353.19922"
-           id="tspan84975"><tspan
+           id="tspan174080"><tspan
              style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
-             id="tspan84973"> 
+             id="tspan174078"> 
 </tspan></tspan><tspan
            x="9.6875"
            y="373.19922"
-           id="tspan84979"><tspan
+           id="tspan174084"><tspan
              style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
-             id="tspan84977"> 
+             id="tspan174082"> 
 </tspan></tspan><tspan
            x="9.6875"
            y="393.19922"
-           id="tspan84983"><tspan
+           id="tspan174088"><tspan
              style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
-             id="tspan84981"> 
+             id="tspan174086"> 
 </tspan></tspan><tspan
            x="9.6875"
            y="413.19922"
-           id="tspan84987"><tspan
+           id="tspan174092"><tspan
              style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
-             id="tspan84985"> 
+             id="tspan174090"> 
 </tspan></tspan><tspan
            x="9.6875"
            y="433.19922"
-           id="tspan84991"><tspan
+           id="tspan174096"><tspan
              style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
-             id="tspan84989"> 
+             id="tspan174094"> 
 </tspan></tspan><tspan
            x="9.6875"
            y="453.19922"
-           id="tspan84995"><tspan
+           id="tspan174100"><tspan
              style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
-             id="tspan84993"> 
+             id="tspan174098"> 
 </tspan></tspan><tspan
            x="9.6875"
            y="473.19922"
-           id="tspan84999"><tspan
+           id="tspan174104"><tspan
              style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
-             id="tspan84997"> </tspan></tspan></text></a><g
+             id="tspan174102"> </tspan></tspan></text></a><g
        id="c1c1r2linkex1"
        transform="translate(124.55273,8.2708716)"><path
          style="display:inline;fill:#433cb2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.517536"
@@ -23308,7 +23420,7 @@
              id="tspan175031"
              style="stroke-width:0.652585"
              x="397.84326"
-             y="98.051117">EMPATHIZE</tspan></text><text
+             y="98.051117">EMPATHISE</tspan></text><text
            style="font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:13.0518px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Bold;writing-mode:lr-tb;display:inline;fill:#b7bfcd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.652585"
            id="text175037"
            x="403.08179"
@@ -24784,7 +24896,110 @@
          x="1053.0822"
          y="408.7291"
          style="font-weight:bold;stroke-width:0.608"
-         id="tspan37881">Example</tspan></text></g><g
+         id="tspan37881">Example</tspan></text><a
+       id="textc1c2url"
+       target="_blank"
+       xlink:href="https://extendt2.eu/"
+       style="display:inline"><text
+         xml:space="preserve"
+         id="textc1c2link"
+         style="font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:12.312px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Bold;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect85069);fill:#17668d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.456"
+         transform="translate(1.937439,-44.99234)"><tspan
+           x="9.6875"
+           y="173.19922"
+           id="tspan174108"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174106"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="193.19922"
+           id="tspan174112"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174110"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="213.19922"
+           id="tspan174116"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174114"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="233.19922"
+           id="tspan174120"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174118"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="253.19922"
+           id="tspan174124"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174122"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="273.19922"
+           id="tspan174128"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174126"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="293.19922"
+           id="tspan174132"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174130"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="313.19922"
+           id="tspan174136"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174134"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="333.19922"
+           id="tspan174140"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174138"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="353.19922"
+           id="tspan174144"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174142"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="373.19922"
+           id="tspan174148"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174146"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="393.19922"
+           id="tspan174152"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174150"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="413.19922"
+           id="tspan174156"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174154"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="433.19922"
+           id="tspan174160"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174158"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="453.19922"
+           id="tspan174164"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174162"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="473.19922"
+           id="tspan174168"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174166"> </tspan></tspan></text></a></g><g
      inkscape:groupmode="layer"
      id="layerregion02"
      inkscape:label="region02"
@@ -24944,16 +25159,12 @@
                transform="scale(1,-1)"
                style="font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:30px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
                id="text127082"
-               x="702.12201"
-               y="-521.24762"><tspan
-                 x="702.12201 720.27197 739.44202 758.44098 775.78101 791.56097 809.41101 826.75098 844.62201 863.58203 879.00201 888.18201 905.13202"
-                 y="-521.24762"
+               x="733.14136"
+               y="-485.18353"><tspan
+                 x="733.14136"
+                 y="-485.18353"
                  sodipodi:role="line"
-                 id="tspan127080">CONTEXTUALIZE </tspan><tspan
-                 x="702.12201"
-                 y="-482.70135"
-                 sodipodi:role="line"
-                 id="tspan185757">    AND SETTING CRITERIA</tspan></text><text
+                 id="tspan185757">DEFINE</tspan></text><text
                transform="scale(1,-1)"
                style="font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:30px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
                id="text127086"
@@ -26269,7 +26480,110 @@
          x="1053.0822"
          y="408.7291"
          style="font-weight:bold;stroke-width:0.608"
-         id="tspan37890">Example</tspan></text></g><g
+         id="tspan37890">Example</tspan></text><a
+       id="textc2c1url"
+       target="_blank"
+       xlink:href="https://extendt2.eu/"
+       style="display:inline"><text
+         xml:space="preserve"
+         id="textc2c1link"
+         style="font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:12.312px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Bold;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect85173);fill:#17668d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.456"
+         transform="translate(1.937439,-44.99234)"><tspan
+           x="9.6875"
+           y="173.19922"
+           id="tspan174172"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174170"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="193.19922"
+           id="tspan174176"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174174"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="213.19922"
+           id="tspan174180"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174178"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="233.19922"
+           id="tspan174184"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174182"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="253.19922"
+           id="tspan174188"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174186"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="273.19922"
+           id="tspan174192"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174190"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="293.19922"
+           id="tspan174196"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174194"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="313.19922"
+           id="tspan174200"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174198"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="333.19922"
+           id="tspan174204"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174202"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="353.19922"
+           id="tspan174208"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174206"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="373.19922"
+           id="tspan174212"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174210"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="393.19922"
+           id="tspan174216"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174214"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="413.19922"
+           id="tspan174220"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174218"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="433.19922"
+           id="tspan174224"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174222"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="453.19922"
+           id="tspan174228"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174226"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="473.19922"
+           id="tspan174232"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174230"> </tspan></tspan></text></a></g><g
      inkscape:groupmode="layer"
      id="layerregion02country02"
      inkscape:label="region02country02"
@@ -26487,13 +26801,13 @@
          style="display:inline"><text
            style="font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:13.0518px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Bold;writing-mode:lr-tb;display:inline;fill:#b7bfcd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.652585"
            id="text175033-0-0"
-           x="397.84326"
-           y="98.051117"><tspan
+           x="412.5535"
+           y="96.991821"><tspan
              sodipodi:role="line"
              id="tspan175031-4-1"
              style="stroke-width:0.652585"
-             x="397.84326"
-             y="98.051117">CONTEXTUALIZE AND SETTING CRITERIA</tspan></text><text
+             x="412.5535"
+             y="96.991821">DEFINE</tspan></text><text
            style="font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:13.0518px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Bold;writing-mode:lr-tb;display:inline;fill:#b7bfcd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.652585"
            id="text175037-8-7"
            x="441.08875"
@@ -27168,7 +27482,110 @@
          x="1053.0822"
          y="408.7291"
          style="font-weight:bold;stroke-width:0.608"
-         id="tspan37899">Example</tspan></text></g><g
+         id="tspan37899">Example</tspan></text><a
+       id="textc2c2url"
+       target="_blank"
+       xlink:href="https://extendt2.eu/"
+       style="display:inline"><text
+         xml:space="preserve"
+         id="textc2c12ink"
+         style="font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:12.312px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Bold;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect85277);fill:#17668d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.456"
+         transform="translate(1.937439,-44.99234)"><tspan
+           x="9.6875"
+           y="173.19922"
+           id="tspan174236"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174234"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="193.19922"
+           id="tspan174240"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174238"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="213.19922"
+           id="tspan174244"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174242"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="233.19922"
+           id="tspan174248"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174246"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="253.19922"
+           id="tspan174252"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174250"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="273.19922"
+           id="tspan174256"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174254"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="293.19922"
+           id="tspan174260"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174258"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="313.19922"
+           id="tspan174264"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174262"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="333.19922"
+           id="tspan174268"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174266"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="353.19922"
+           id="tspan174272"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174270"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="373.19922"
+           id="tspan174276"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174274"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="393.19922"
+           id="tspan174280"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174278"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="413.19922"
+           id="tspan174284"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174282"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="433.19922"
+           id="tspan174288"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174286"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="453.19922"
+           id="tspan174292"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174290"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="473.19922"
+           id="tspan174296"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174294"> </tspan></tspan></text></a></g><g
      inkscape:groupmode="layer"
      id="layerregion03"
      inkscape:label="region03"
@@ -27376,7 +27793,7 @@
                  x="713.18622"
                  y="-480.33765"
                  sodipodi:role="line"
-                 id="tspan133122">DEVELOPING</tspan></text><text
+                 id="tspan133122">ITERATION</tspan></text><text
                transform="scale(1,-1)"
                style="font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:30px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
                id="text133092"
@@ -27394,7 +27811,7 @@
                  x="684.52783"
                  y="-513.63318"
                  sodipodi:role="line"
-                 id="tspan134034">TESTING WHILE</tspan></text></g></g></g></g><text
+                 id="tspan134034" /></text></g></g></g></g><text
        style="font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:16.416px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Bold;writing-mode:lr-tb;display:inline;fill:#17668d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.608"
        id="cont3reg1_tooltip"
        x="10.277272"
@@ -27439,7 +27856,7 @@
          x="11.77564"
          y="378.30667"
          style="font-weight:normal;stroke-width:0.608"
-         id="tspan206568">your intermediate solution(s), even though you are still </tspan><tspan
+         id="tspan206568">your intermediate solution(s) in your group, even though you are still </tspan><tspan
          sodipodi:role="line"
          x="11.77564"
          y="399.3992"
@@ -27649,7 +28066,7 @@
            id="tspan175031-4-4"
            style="stroke-width:0.652585"
            x="397.84326"
-           y="98.051117">TESTING</tspan></text><text
+           y="98.051117">ITERATION</tspan></text><text
          style="font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:13.0518px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Bold;writing-mode:lr-tb;display:inline;fill:#b7bfcd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.652585"
          id="text175037-8-9"
          x="403.08179"
@@ -28357,7 +28774,110 @@
            x="1053.0822"
            y="380.7291"
            style="font-weight:bold;stroke-width:0.608"
-           id="tspan37987">Exten(DT)²  Tool</tspan></text></g></g><g
+           id="tspan37987">Exten(DT)²  Tool</tspan></text></g><a
+       id="textc3c1url"
+       target="_blank"
+       xlink:href="https://extendt2.eu/"
+       style="display:inline"><text
+         xml:space="preserve"
+         id="textc3c1link"
+         style="font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:12.312px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Bold;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect85381);fill:#17668d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.456"
+         transform="translate(1.937439,-44.99234)"><tspan
+           x="9.6875"
+           y="173.19922"
+           id="tspan174300"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174298"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="193.19922"
+           id="tspan174304"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174302"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="213.19922"
+           id="tspan174308"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174306"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="233.19922"
+           id="tspan174312"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174310"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="253.19922"
+           id="tspan174316"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174314"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="273.19922"
+           id="tspan174320"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174318"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="293.19922"
+           id="tspan174324"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174322"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="313.19922"
+           id="tspan174328"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174326"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="333.19922"
+           id="tspan174332"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174330"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="353.19922"
+           id="tspan174336"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174334"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="373.19922"
+           id="tspan174340"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174338"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="393.19922"
+           id="tspan174344"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174342"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="413.19922"
+           id="tspan174348"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174346"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="433.19922"
+           id="tspan174352"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174350"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="453.19922"
+           id="tspan174356"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174354"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="473.19922"
+           id="tspan174360"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174358"> </tspan></tspan></text></a></g><g
      inkscape:groupmode="layer"
      id="layerregion03country02"
      inkscape:label="region03country02"
@@ -28571,16 +29091,16 @@
          id="tspan182458-9"
          style="fill:#82d2c6;fill-opacity:1;stroke-width:0.570919"
          x="817.33191"
-         y="323.72708">TEST &amp; EVALUATE</tspan></text><text
+         y="323.72708">ITERATION</tspan></text><text
        style="font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:13.1312px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Bold;writing-mode:lr-tb;display:inline;fill:#82d2c6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.570919"
        id="text182464-6"
        x="829.65979"
        y="337.03525"><tspan
-         x="829.65979 837.52551 844.56372 852.8363 856.98584 865.50793"
-         y="337.03525"
          sodipodi:role="line"
          id="tspan182462-3"
-         style="fill:#82d2c6;fill-opacity:1;stroke-width:0.570919">REGION</tspan></text><g
+         style="fill:#82d2c6;fill-opacity:1;stroke-width:0.570919"
+         x="829.65979"
+         y="337.03525">COUNTRY</tspan></text><g
        id="c3c2r1link1"
        transform="matrix(0.04224617,0,0,-0.04224617,634.29116,381.11198)"
        style="display:inline;stroke:#ffffff;stroke-width:3.55062;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"><g
@@ -28927,7 +29447,110 @@
            x="1053.0822"
            y="380.7291"
            style="font-weight:bold;stroke-width:0.608"
-           id="tspan38023">Exten(DT)²  Tool</tspan></text></g></g><g
+           id="tspan38023">Exten(DT)²  Tool</tspan></text></g><a
+       id="textc3c2url"
+       target="_blank"
+       xlink:href="https://extendt2.eu/"
+       style="display:inline"><text
+         xml:space="preserve"
+         id="textc3c2link"
+         style="font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:12.312px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Bold;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect85485);fill:#17668d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.456"
+         transform="translate(1.937439,-44.99234)"><tspan
+           x="9.6875"
+           y="173.19922"
+           id="tspan174364"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174362"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="193.19922"
+           id="tspan174368"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174366"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="213.19922"
+           id="tspan174372"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174370"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="233.19922"
+           id="tspan174376"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174374"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="253.19922"
+           id="tspan174380"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174378"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="273.19922"
+           id="tspan174384"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174382"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="293.19922"
+           id="tspan174388"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174386"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="313.19922"
+           id="tspan174392"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174390"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="333.19922"
+           id="tspan174396"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174394"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="353.19922"
+           id="tspan174400"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174398"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="373.19922"
+           id="tspan174404"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174402"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="393.19922"
+           id="tspan174408"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174406"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="413.19922"
+           id="tspan174412"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174410"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="433.19922"
+           id="tspan174416"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174414"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="453.19922"
+           id="tspan174420"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174418"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="473.19922"
+           id="tspan174424"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174422"> </tspan></tspan></text></a></g><g
      inkscape:groupmode="layer"
      id="layerregion04"
      inkscape:label="region04"
@@ -29114,7 +29737,7 @@
          x="10.277272"
          y="174.89514"
          style="font-weight:normal;stroke-width:0.608"
-         id="tspan260756">you share your creation.</tspan><tspan
+         id="tspan260756">you share your creation with external users.</tspan><tspan
          sodipodi:role="line"
          x="10.277272"
          y="195.98766"
@@ -30077,7 +30700,110 @@
            x="1053.0822"
            y="380.7291"
            style="font-weight:bold;stroke-width:0.608"
-           id="tspan38059">Exten(DT)²  Tool</tspan></text></g></g><g
+           id="tspan38059">Exten(DT)²  Tool</tspan></text></g><a
+       id="textc4c1url"
+       target="_blank"
+       xlink:href="https://extendt2.eu/"
+       style="display:inline"><text
+         xml:space="preserve"
+         id="textc4c1link"
+         style="font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:12.312px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Bold;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect85589);fill:#17668d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.456"
+         transform="translate(1.937439,-44.99234)"><tspan
+           x="9.6875"
+           y="173.19922"
+           id="tspan174428"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174426"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="193.19922"
+           id="tspan174432"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174430"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="213.19922"
+           id="tspan174436"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174434"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="233.19922"
+           id="tspan174440"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174438"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="253.19922"
+           id="tspan174444"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174442"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="273.19922"
+           id="tspan174448"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174446"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="293.19922"
+           id="tspan174452"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174450"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="313.19922"
+           id="tspan174456"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174454"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="333.19922"
+           id="tspan174460"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174458"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="353.19922"
+           id="tspan174464"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174462"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="373.19922"
+           id="tspan174468"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174466"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="393.19922"
+           id="tspan174472"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174470"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="413.19922"
+           id="tspan174476"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174474"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="433.19922"
+           id="tspan174480"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174478"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="453.19922"
+           id="tspan174484"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174482"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="473.19922"
+           id="tspan174488"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174486"> </tspan></tspan></text></a></g><g
      inkscape:groupmode="layer"
      id="layerregion04country02"
      inkscape:label="region04country02"
@@ -30963,7 +31689,110 @@
            x="1053.0822"
            y="380.7291"
            style="font-weight:bold;stroke-width:0.608"
-           id="tspan38095">Exten(DT)²  Tool</tspan></text></g></g><g
+           id="tspan38095">Exten(DT)²  Tool</tspan></text></g><a
+       id="textc4c2url"
+       target="_blank"
+       xlink:href="https://extendt2.eu/"
+       style="display:inline"><text
+         xml:space="preserve"
+         id="textc4c2link"
+         style="font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:12.312px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Bold;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect85693);fill:#17668d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.456"
+         transform="translate(1.937439,-44.99234)"><tspan
+           x="9.6875"
+           y="173.19922"
+           id="tspan174492"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174490"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="193.19922"
+           id="tspan174496"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174494"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="213.19922"
+           id="tspan174500"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174498"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="233.19922"
+           id="tspan174504"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174502"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="253.19922"
+           id="tspan174508"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174506"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="273.19922"
+           id="tspan174512"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174510"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="293.19922"
+           id="tspan174516"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174514"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="313.19922"
+           id="tspan174520"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174518"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="333.19922"
+           id="tspan174524"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174522"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="353.19922"
+           id="tspan174528"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174526"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="373.19922"
+           id="tspan174532"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174530"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="393.19922"
+           id="tspan174536"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174534"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="413.19922"
+           id="tspan174540"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174538"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="433.19922"
+           id="tspan174544"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174542"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="453.19922"
+           id="tspan174548"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174546"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="473.19922"
+           id="tspan174552"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174550"> </tspan></tspan></text></a></g><g
      inkscape:groupmode="layer"
      id="layerregion05"
      inkscape:label="region05"
@@ -31129,22 +31958,22 @@
          id="cont5reg2_base" /><text
          style="font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:17.2991px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.576635"
          id="text224969"
-         x="588.35535"
-         y="256.92252"><tspan
-           x="588.35535 598.80396 608.9931 618.09241 628.03937 637.13867 648.09418 658.09308 663.38654 674.5791 685.00354"
-           y="256.92252"
+         x="582.8866"
+         y="267.10904"><tspan
+           x="582.8866"
            sodipodi:role="line"
            id="tspan224967"
-           style="fill:#ffffff;fill-opacity:1;stroke-width:0.576635">PRESENTING</tspan></text><text
+           style="fill:#ffffff;fill-opacity:1;stroke-width:0.576635"
+           y="267.10904">DELIVER</tspan></text><text
          style="font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:17.2991px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.576635"
          id="text224973"
          x="614.34192"
          y="275.95151"><tspan
-           x="614.34192 627.90436 638.9585 649.14764"
-           y="275.95151"
            sodipodi:role="line"
            id="tspan224971"
-           style="fill:#ffffff;fill-opacity:1;stroke-width:0.576635">WORK</tspan></text><text
+           style="fill:#ffffff;fill-opacity:1;stroke-width:0.576635"
+           x="614.34192"
+           y="275.95151" /></text><text
          style="font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:17.2991px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.576635"
          id="text224977"
          x="600.45959"
@@ -31166,7 +31995,7 @@
            y="119.48901"
            sodipodi:role="line"
            id="tspan185757-4-9-9"
-           style="stroke-width:0.570108">FINAL  TESTING</tspan></text><text
+           style="stroke-width:0.570108">RESPOND</tspan></text><text
          style="font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:17.1032px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Bold;writing-mode:lr-tb;display:inline;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.570108"
          id="text127086-7-5-8"
          x="718.90808"
@@ -31190,7 +32019,7 @@
          x="10.277272"
          y="174.89514"
          style="font-weight:normal;stroke-width:0.608"
-         id="tspan283471">testing your final solution(s) with the user. Be sure to check </tspan><tspan
+         id="tspan283471">responding to the feedback you had from the users. Be sure to check </tspan><tspan
          sodipodi:role="line"
          x="10.277272"
          y="195.98766"
@@ -31220,12 +32049,12 @@
          x="11.77564"
          y="378.30667"
          style="font-weight:normal;stroke-width:0.608"
-         id="tspan303996">potential of your project by preparing for a future in the real world</tspan><tspan
+         id="tspan305270">potential of your project by sharing the result in a more permanent </tspan><tspan
          sodipodi:role="line"
          x="11.77564"
          y="399.3992"
          style="font-weight:normal;stroke-width:0.608"
-         id="tspan305270">after production and distribution!</tspan><tspan
+         id="tspan137873">way. Like this the result can live on after your journey as finished!</tspan><tspan
          sodipodi:role="line"
          x="11.77564"
          y="420.4917"
@@ -31245,12 +32074,12 @@
          x="8.4066267"
          y="242.44894"
          style="font-weight:normal;stroke-width:0.608"
-         id="tspan280820">In this country, you can find cities (tools) on how to present your</tspan><tspan
+         id="tspan280820">In this country, you can find cities (tools) on how to deliver the </tspan><tspan
          sodipodi:role="line"
          x="8.4066267"
          y="263.54144"
          style="font-weight:normal;stroke-width:0.608"
-         id="tspan298452"> solutions to interested parties.</tspan><tspan
+         id="tspan298452">result of their journey to the teacher.</tspan><tspan
          sodipodi:role="line"
          x="8.4066267"
          y="284.63397"
@@ -31481,22 +32310,13 @@
          transform="translate(-132.23629,37.262917)"><text
            style="font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:17.2991px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Bold;writing-mode:lr-tb;fill:#cecece;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.576635;stroke-opacity:1"
            id="text43143"
-           x="588.35535"
-           y="256.92252"><tspan
-             x="588.35535 598.80396 608.9931 618.09241 628.03937 637.13867 648.09418 658.09308 663.38654 674.5791 685.00354"
-             y="256.92252"
+           x="591.39722"
+           y="273.43057"><tspan
+             x="591.39722"
              sodipodi:role="line"
              id="tspan43141"
-             style="fill:#cecece;fill-opacity:1;stroke:none;stroke-width:0.576635;stroke-opacity:1">PRESENTING</tspan></text><text
-           style="font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:17.2991px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Bold;writing-mode:lr-tb;fill:#cecece;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.576635;stroke-opacity:1"
-           id="text43147"
-           x="614.34192"
-           y="275.95151"><tspan
-             x="614.34192 627.90436 638.9585 649.14764"
-             y="275.95151"
-             sodipodi:role="line"
-             id="tspan43145"
-             style="fill:#cecece;fill-opacity:1;stroke:none;stroke-width:0.576635;stroke-opacity:1">WORK</tspan></text><text
+             style="fill:#cecece;fill-opacity:1;stroke:none;stroke-width:0.576635;stroke-opacity:1"
+             y="273.43057">DELIVER</tspan></text><text
            style="font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:17.2991px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Bold;writing-mode:lr-tb;fill:#cecece;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.576635;stroke-opacity:1"
            id="text43151"
            x="600.45959"
@@ -32227,7 +33047,110 @@
            x="1053.0822"
            y="380.7291"
            style="font-weight:bold;stroke-width:0.608"
-           id="tspan38131">Exten(DT)²  Tool</tspan></text></g></g><g
+           id="tspan38131">Exten(DT)²  Tool</tspan></text></g><a
+       id="textc5c1url"
+       target="_blank"
+       xlink:href="https://extendt2.eu/"
+       style="display:inline"><text
+         xml:space="preserve"
+         id="textc5c1link"
+         style="font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:12.312px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Bold;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect85797);fill:#17668d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.456"
+         transform="translate(1.937439,-44.99234)"><tspan
+           x="9.6875"
+           y="173.19922"
+           id="tspan174556"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174554"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="193.19922"
+           id="tspan174560"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174558"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="213.19922"
+           id="tspan174564"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174562"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="233.19922"
+           id="tspan174568"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174566"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="253.19922"
+           id="tspan174572"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174570"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="273.19922"
+           id="tspan174576"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174574"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="293.19922"
+           id="tspan174580"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174578"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="313.19922"
+           id="tspan174584"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174582"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="333.19922"
+           id="tspan174588"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174586"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="353.19922"
+           id="tspan174592"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174590"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="373.19922"
+           id="tspan174596"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174594"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="393.19922"
+           id="tspan174600"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174598"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="413.19922"
+           id="tspan174604"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174602"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="433.19922"
+           id="tspan174608"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174606"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="453.19922"
+           id="tspan174612"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174610"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="473.19922"
+           id="tspan174616"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174614"> </tspan></tspan></text></a></g><g
      inkscape:groupmode="layer"
      id="layerregion05country02"
      inkscape:label="region05country02"
@@ -32425,7 +33348,7 @@
            y="46.37059"
            sodipodi:role="line"
            id="tspan43239"
-           style="fill:#cecece;fill-opacity:1;stroke-width:0.570108">FINAL  TESTING</tspan></text><text
+           style="fill:#cecece;fill-opacity:1;stroke-width:0.570108">RESPOND</tspan></text><text
          style="font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:17.1032px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Bold;writing-mode:lr-tb;display:inline;fill:#cecece;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.570108"
          id="text43245"
          x="914.21143"
@@ -33142,7 +34065,110 @@
            x="1053.0822"
            y="380.7291"
            style="font-weight:bold;stroke-width:0.608"
-           id="tspan38167">Exten(DT)²  Tool</tspan></text></g></g><g
+           id="tspan38167">Exten(DT)²  Tool</tspan></text></g><a
+       id="textc5c2url"
+       target="_blank"
+       xlink:href="https://extendt2.eu/"
+       style="display:inline"><text
+         xml:space="preserve"
+         id="textc5c2link"
+         style="font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:12.312px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Bold;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect85901);fill:#17668d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.456"
+         transform="translate(1.937439,-44.99234)"><tspan
+           x="9.6875"
+           y="173.19922"
+           id="tspan174620"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174618"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="193.19922"
+           id="tspan174624"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174622"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="213.19922"
+           id="tspan174628"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174626"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="233.19922"
+           id="tspan174632"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174630"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="253.19922"
+           id="tspan174636"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174634"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="273.19922"
+           id="tspan174640"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174638"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="293.19922"
+           id="tspan174644"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174642"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="313.19922"
+           id="tspan174648"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174646"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="333.19922"
+           id="tspan174652"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174650"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="353.19922"
+           id="tspan174656"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174654"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="373.19922"
+           id="tspan174660"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174658"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="393.19922"
+           id="tspan174664"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174662"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="413.19922"
+           id="tspan174668"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174666"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="433.19922"
+           id="tspan174672"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174670"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="453.19922"
+           id="tspan174676"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174674"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="473.19922"
+           id="tspan174680"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174678"> </tspan></tspan></text></a></g><g
      inkscape:groupmode="layer"
      id="layerregion05country03"
      inkscape:label="region05country03"
@@ -33288,23 +34314,14 @@
          d="m 567.75045,398.99504 6.17905,-7.35512 14.81037,-4.24428 9.78422,-6.45484 13.37166,-7.37031 4.05922,-8.72445 -1.55754,-22.72096 -10.49938,-13.80658 -18.21795,-8.04834 -4.65126,-1.00618 -18.53981,-27.85506 3.81136,-37.2766 8.83246,-5.26272 1.25017,-30.20948 1.49774,-1.69608 -4.29687,-18.8141 6.86121,-11.74894 19.14511,0.50084 17.80262,4.84388 25.65651,15.55057 17.27705,-7.36906 6.78644,-11.12564 19.53087,1.37372 27.42748,14.37634 16.66593,-4.53372 8.91304,8.60144 40.54108,-4.84382 9.38034,7.88342 31.18315,2.89085 -10.81343,6.47463 7.2424,7.67529 -10.78291,9.356 -21.33818,-0.0337 -10.4516,12.22417 -21.53254,0.39062 -16.44506,8.32575 -17.09633,10.78553 -19.79876,1.20423 -8.37421,12.27956 -8.53911,12.65518 -15.24534,8.25706 -5.01575,11.92753 -1.5625,26.62699 -5.8549,9.54535 -5.66892,16.17036 -9.28946,6.64797 -16.49456,12.26447 -22.11685,6.01122 -12.74605,-0.24774 -14.3588,6.66757 z"
          id="presentCcountry_base" /><text
          style="font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:17.2991px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Bold;writing-mode:lr-tb;fill:#cecece;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.576635"
-         id="text43306"
-         x="469.80008"
-         y="249.40247"><tspan
-           x="469.80008 480.24869 490.43784 499.53714 509.4841 518.58344 529.53894 539.53784 544.8313 556.02386 566.4483"
-           y="249.40247"
-           sodipodi:role="line"
-           id="tspan43304"
-           style="fill:#cecece;fill-opacity:1;stroke-width:0.576635">PRESENTING</tspan></text><text
-         style="font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:17.2991px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Bold;writing-mode:lr-tb;fill:#cecece;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.576635"
          id="text43310"
-         x="495.78665"
-         y="268.43146"><tspan
-           x="495.78665 509.34909 520.40326 530.59241"
-           y="268.43146"
+         x="476.88864"
+         y="260.1879"><tspan
            sodipodi:role="line"
            id="tspan43308"
-           style="fill:#cecece;fill-opacity:1;stroke-width:0.576635">WORK</tspan></text><text
+           style="fill:#cecece;fill-opacity:1;stroke-width:0.576635"
+           x="476.88864"
+           y="260.1879">DELIVER</tspan></text><text
          style="font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:17.2991px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Bold;writing-mode:lr-tb;fill:#cecece;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.576635"
          id="text43314"
          x="481.90433"
@@ -33327,7 +34344,7 @@
            y="49.115692"
            sodipodi:role="line"
            id="tspan43320"
-           style="fill:#cecece;fill-opacity:1;stroke-width:0.570108">FINAL  TESTING</tspan></text><text
+           style="fill:#cecece;fill-opacity:1;stroke-width:0.570108">RESPOND</tspan></text><text
          style="font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:17.1032px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Bold;writing-mode:lr-tb;display:inline;fill:#cecece;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.570108"
          id="text43326"
          x="918.73126"
@@ -33735,4 +34752,107 @@
            x="1053.0822"
            y="380.7291"
            style="font-weight:bold;stroke-width:0.608"
-           id="tspan38203">Exten(DT)²  Tool</tspan></text></g></g></svg>
+           id="tspan38203">Exten(DT)²  Tool</tspan></text></g><a
+       id="textc5c3url"
+       target="_blank"
+       xlink:href="https://extendt2.eu/"
+       style="display:inline"><text
+         xml:space="preserve"
+         id="textc5c3link"
+         style="font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:12.312px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed-Bold;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect86005);fill:#17668d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.456"
+         transform="translate(1.937439,-44.99234)"><tspan
+           x="9.6875"
+           y="173.19922"
+           id="tspan174684"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174682"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="193.19922"
+           id="tspan174688"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174686"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="213.19922"
+           id="tspan174692"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174690"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="233.19922"
+           id="tspan174696"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174694"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="253.19922"
+           id="tspan174700"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174698"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="273.19922"
+           id="tspan174704"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174702"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="293.19922"
+           id="tspan174708"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174706"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="313.19922"
+           id="tspan174712"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174710"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="333.19922"
+           id="tspan174716"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174714"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="353.19922"
+           id="tspan174720"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174718"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="373.19922"
+           id="tspan174724"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174722"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="393.19922"
+           id="tspan174728"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174726"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="413.19922"
+           id="tspan174732"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174730"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="433.19922"
+           id="tspan174736"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174734"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="453.19922"
+           id="tspan174740"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174738"> 
+</tspan></tspan><tspan
+           x="9.6875"
+           y="473.19922"
+           id="tspan174744"><tspan
+             style="font-weight:normal;font-size:16px;-inkscape-font-specification:'Roboto Condensed, Condensed'"
+             id="tspan174742"> </tspan></tspan></text></a></g></svg>

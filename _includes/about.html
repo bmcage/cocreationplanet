@@ -10,9 +10,9 @@
         <!-- svg of the cocreation planet-->
         <div id="svgdiv">
           {% if curLang == "nl" %}
-          <object id="svgobject" data="{{ site.url }}{{ site.baseurl }}/assets/img/planet/planet-v03_nl.svg"></object>
+          <object onload="svgLoadAnimations()" id="svgobject" data="{{ site.url }}{{ site.baseurl }}/assets/img/planet/planet-v03_nl.svg"></object>
           {% else %}
-          <object id="svgobject" data="{{ site.url }}{{ site.baseurl }}/assets/img/planet/planet-v03.svg"></object>
+          <object onload="svgLoadAnimations()"  id="svgobject" data="{{ site.url }}{{ site.baseurl }}/assets/img/planet/planet-v03.svg"></object>
           {% endif %}  
         </div>
         <!-- div for tooltips -->
@@ -32,13 +32,17 @@
 
             return chunks;
           }
-
-          // our code to manipulate svg
-          var mySvgObject = document.getElementById("svgobject");
-          mySvgObject.addEventListener("load", () => {
+          
+          function svgLoadAnimations() {
             // the planet layer
-            let mySvg = mySvgObject.getSVGDocument();
-            //console.log(mySvg);
+            var mySvg = null;
+            mySvg = document.getElementById("svgobject").contentWindow.document;
+            //mySvg = document.getElementById("svgobject").getSVGDocument();
+            if (mySvg === null) {
+              alert("Could not load SVG animations. Cross site loading? Check url.", document.getElementById("svgobject"), )
+              console.log(document.getElementById("svgobject"))
+              console.log(document.URL)
+            }
             let layerplanet = mySvg.getElementById("layerplanet");
             {% for continent in site.data.svgelements.continents_regions %}  
               // continent
@@ -117,16 +121,17 @@
               });
             {% endfor %}
                    
-            let c1c1txt = mySvg.getElementById("textc1c1link");
-            let c1c1url = mySvg.getElementById("textc1c1url");
-                   
             //console.log(c1c1txt.firstChild.firstChild);
             // for loop to show the standard links
             {% for link in site.data.courselinks.cocreationlinks %}  
               {% if site.data.possiblecourselinks.poscocreationlinks contains link.svglabel %}
               let {{ link.svglabel }} = mySvg.getElementById("{{ link.svglabel }}");
 
-    try {
+              //set c1c1txt and textc1c1link and textc1c1url automatically for use.
+              var {{ link.svglabel | slice: 0, 4 }}txt = mySvg.getElementById("text{{ link.svglabel | slice: 0, 4 }}link");
+              var {{ link.svglabel | slice: 0, 4 }}url = mySvg.getElementById("text{{ link.svglabel | slice: 0, 4 }}url");
+                   
+              try {
                 {% if link.active == "yes" %}
 
                   // Add click to open resource link
@@ -145,7 +150,7 @@
                     console.log({{ link.svglabel | slice: 0, 4 }}url)
                     {{ link.svglabel | slice: 0, 4 }}url.setAttribute("xlink:href", "{{ link.main_link }}")
                     // put rest of the text in.
-                    var chunks = divideTextIntoChunks('{{link.text }}');
+                    var chunks = divideTextIntoChunks("{{link.text }}");
                     var lench = chunks.length;
                     if (lench > 14) lench = 14;
                     for (var j=0; j < lench; j += 1) {
@@ -172,8 +177,8 @@
                   // hide the link, it is not active
                   {{ link.svglabel }}.style.display = "none";
                 {% endif %}
-        } catch (e) {
-        console.log(e);
+              } catch (e) {
+              console.log(e);
                   // hide the link, something is not working
                   {{ link.svglabel }}.style.display = "none";
     }
@@ -205,7 +210,7 @@
                     console.log({{ link.svglabel | slice: 0, 4 }}url)
                     {{ link.svglabel | slice: 0, 4 }}url.setAttribute("xlink:href", "{{ link.main_link }}")
                     // put rest of the text in.
-                    var chunks = divideTextIntoChunks('{{link.text }}');
+                    var chunks = divideTextIntoChunks("{{link.text }}");
                     var lench = chunks.length;
                     if (lench > 14) lench = 14;
                     for (var j=0; j < lench; j += 1) {
@@ -265,7 +270,7 @@
                     console.log({{ link.svglabel | slice: 0, 4 }}url)
                     {{ link.svglabel | slice: 0, 4 }}url.setAttribute("xlink:href", "{{ link.main_link }}")
                     // put rest of the text in.
-                    var chunks = divideTextIntoChunks('{{link.text }}');
+                    var chunks = divideTextIntoChunks("{{link.text }}");
                     var lench = chunks.length;
                     if (lench > 14) lench = 14;
                     for (var j=0; j < lench; j += 1) {
@@ -292,16 +297,20 @@
                   // hide the link, it is not active
                   {{ link.svglabel }}.style.display = "none";
                 {% endif %}
-        } catch (e) {
-        console.log(e);
+              } catch (e) {
+              console.log(e);
                   // hide the link, something is not working
                   {{ link.svglabel }}.style.display = "none";
-    }
+              }
 
               {% endif %}
             {% endfor %}
 
-          });
+          } 
+               
+          // our code to manipulate svg
+          //var mySvgObject = document.getElementById("svgobject");
+          //mySvgObject.addEventListener("load", svgLoadAnimations());
            
         </script>
       </div>

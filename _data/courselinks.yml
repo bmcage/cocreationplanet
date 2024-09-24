@@ -52,8 +52,12 @@ cocreationlinks:
     active: "yes"
     title: "Questionnaires"
     main_link: "https://www.researchgate.net/publication/327425122_Guidelines_for_Conducting_Surveys"
-    text: "Conduct a survey to obtain more insights in the problem. You can use several free tools to make a questionnaire, for example Qualtrics, Surveymonkey, or Google Forms."
+    text: "Conduct a survey to obtain more insights in the problem. You can use several free tools to make a questionnaire, for example Qualtrics, Surveymonkey, or Google Forms. Or NQuire, the Extendt2 tool."
   - svglabel: "c1c1r2link2"
+    active: "yes"
+    title: "Measurable Verbs"
+    main_link: "https://www.utica.edu/academic/Assessment/new/Blooms%20Taxonomy%20-%20Best.pdf"
+    text: "To describe a problem, the correct words are important. Benjamin Bloom's taxonomy of measurable verbs can help focus your language."
   - svglabel: "c1c1r2link3"
   - svglabel: "c1c1r2link4"
   - svglabel: "c1c1r2link5"
@@ -61,7 +65,7 @@ cocreationlinks:
   - svglabel: "c1c1r2link7"
   - svglabel: "c1c1r2link8"
   - svglabel: "c1c1r2link9"
-#   country 2: Explore country
+#   country 2: Understand country
 #    region 1: Audience Defining
   - svglabel: "c1c2r1link1"  
   - svglabel: "c1c2r1link2"
@@ -74,6 +78,10 @@ cocreationlinks:
   - svglabel: "c1c2r1link9"
 #    region 2: Frame project
   - svglabel: "c1c2r2link1"
+    active: "yes"
+    title: "What is Design Thinking?"
+    main_link: "https://tll.gse.harvard.edu/sites/projects.iq.harvard.edu/files/hgsetll/files/designthinkingeducation.pdf"
+    text: "Still stuggling with understanding what design thinking is? This poster of Harvard has further background" 
   - svglabel: "c1c2r2link2"
   - svglabel: "c1c2r2link3"
   - svglabel: "c1c2r2link4"
@@ -447,17 +455,33 @@ cocreationlinksExamples:
 #   country 1: Empathise country
 #    region 1: High immersion
   - svglabel: "c1c1r1linkex1"  
+    active: "yes"
+    title: "Teacher activity plan"
+    main_link: "assets/Toolkit/DT ACTIVITY PLAN TEMPLATE - Challenge & Continent 1.docx"
+    text: "This word document is a template for the teacher to set up the DT activity. Reflect on the challenge you will give the students. What learning outcomes to obtain? What organisational structure? How to support the students during the Emphatize and Understand phase?" 
   - svglabel: "c1c1r1linkex2"
+    active: "yes"
+    title: "Guide for Teachers on DT"
+    main_link: "https://www.makersempire.com/what-is-design-thinking-a-handy-guide-for-classroom-teachers/"
+    text: "This guide gives more information about design thinking including visuals, videos and templates you can use with your students" 
   - svglabel: "c1c1r1linkex3"
   - svglabel: "c1c1r1linkex4"
   - svglabel: "c1c1r1linkex5"
 #    region 2: Lower immersion
   - svglabel: "c1c1r2linkex1"
+    active: "yes"
+    title: "Design thinking explained"
+    main_link: "https://www.sessionlab.com/blog/design-thinking-for-beginners-guide/#how-baking-a-cake-can-explain-design-thinking"
+    text: "On the sessionlab site you can find a good analogy between baking cake and design thinking(DT). By understanding DT better, the different phases of DT will be clear to you." 
   - svglabel: "c1c1r2linkex2"
+    active: "yes"
+    title: "Design thinking example for elementary classrooms"
+    main_link: "https://edtech-class.com/2021/08/26/design-thinking-project-ideas-for-elementary-classrooms-and-back-to-school/"
+    text: "In this example DT activity the students investigate how they can design and build a helpful and thoughtful backpack for a friend. See in a handy overview what the different steps of DT entail." 
   - svglabel: "c1c1r2linkex3"
   - svglabel: "c1c1r2linkex4"
   - svglabel: "c1c1r2linkex5"
-#   country 2: Explore country
+#   country 2: Understand country
 #    region 1: Audience Defining
   - svglabel: "c1c2r1linkex1"  
   - svglabel: "c1c2r1linkex2"
@@ -486,6 +510,10 @@ cocreationlinksExamples:
 #   country 1: Contextualize and setting criteria country
 #    region 1: Mapping out
   - svglabel: "c2c1r1linkex1"  
+    active: "yes"
+    title: "Teacher activity plan"
+    main_link: "assets/Toolkit/DT ACTIVITY PLAN TEMPLATE - Continent 2.docx"
+    text: "This word document is a template for the teacher to set up the DT activity for the define and ideate phase. How to support the students during this phase?" 
   - svglabel: "c2c1r1linkex2"
   - svglabel: "c2c1r1linkex3"
   - svglabel: "c2c1r1linkex4"
@@ -518,7 +546,11 @@ cocreationlinksExamples:
 # continent 3: Rapid prototyping & iteration
 #   country 1: Prototype country
 #    region 1: Low Fidelity
-  - svglabel: "c3c1r1linkex1"  
+  - svglabel: "c3c1r1linkex1" 
+    active: "yes"
+    title: "Teacher activity plan"
+    main_link: "assets/Toolkit/DT ACTIVITY PLAN TEMPLATE - Continent 3.docx"
+    text: "This word document is a template for the teacher to set up the DT activity for the rapid prototyping and iteration phase. How to support the students during this phase?"  
   - svglabel: "c3c1r1linkex2"
   - svglabel: "c3c1r1linkex3"
   - svglabel: "c3c1r1linkex4"
@@ -540,6 +572,10 @@ cocreationlinksExamples:
 #   country 1: Sharing country
 #    region 1: Prepare to share
   - svglabel: "c4c1r1linkex1"  
+    active: "yes"
+    title: "Teacher activity plan"
+    main_link: "assets/Toolkit/DT ACTIVITY PLAN TEMPLATE - Continent 4.docx"
+    text: "This word document is a template for the teacher to set up the DT activity for the sharing and feedback phase. How to support the students during this phase?" 
   - svglabel: "c4c1r1linkex2"
   - svglabel: "c4c1r1linkex3"
   - svglabel: "c4c1r1linkex4"
@@ -567,6 +603,10 @@ cocreationlinksExamples:
 #   country 1: Final Testing country
 #    region 1: React on Feedback
   - svglabel: "c5c1r1linkex1"  
+    active: "yes"
+    title: "Teacher activity plan"
+    main_link: "assets/Toolkit/DT ACTIVITY PLAN TEMPLATE - Continent 5.docx"
+    text: "This word document is a template for the teacher to set up the DT activity for the respond and deliver phase. How to support the students during this phase?" 
   - svglabel: "c5c1r1linkex2"
   - svglabel: "c5c1r1linkex3"
   - svglabel: "c5c1r1linkex4"

@@ -140,6 +140,14 @@
                     // open the link in new tab
                     window.open("{{ link.main_link }}", "_blank");
                   });
+                  // Add middleclick to open resource link
+                  {{ link.svglabel }}.addEventListener("auxclick", event => {
+                    if (event.button == 1 || event.button == 2) {
+                      event.stopPropagation();
+                      // open the link in new tab
+                      window.open("{{ link.main_link }}", "_blank");
+                    }
+                  });
 
                   // Add mouseover effect on link
                   {{ link.svglabel }}.addEventListener("mouseover", event => {

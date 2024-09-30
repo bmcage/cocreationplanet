@@ -674,6 +674,10 @@ cocreationlinksExtendt2:
 #   country 1: Contextualize and setting criteria country
 #    region 1: Mapping out
   - svglabel: "c2c1r1linke1"  
+    active: "yes"
+    title: "Choico Visual guide"
+    main_link: "https://drive.google.com/file/d/1XI5MyckNhSTD2NkX1pzz_3jXPa_MK9yA/view?usp=sharing"
+    text: "Understand what is possible with ChoiCo. You need to map choices with consequences."
   - svglabel: "c2c1r1linke2"
   - svglabel: "c2c1r1linke3"
   - svglabel: "c2c1r1linke4"

@@ -1,0 +1,495 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Benny\n"
+"Language-Team: \n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "Go on a co-creation journey"
+msgstr "Ga op een co-creatie reis"
+
+msgid "Use the co-creation planet to explore the"
+msgstr "Gebruik de co-creatie planeet om de stappen"
+
+msgid "steps of Design Thinking in a natural way."
+msgstr "van Design Thinking op natuurlijke wijze te ontdekken."
+
+msgid "You have a"
+msgstr "Je hebt een"
+
+msgid "challenge"
+msgstr "uitdaging"
+
+msgid "the topic you seek to solve in 1-2 sentences."
+msgstr "het onderwerp dat je wil oplossen in 1-2 zinnen."
+
+msgid "Then embark on a design thinking journey"
+msgstr "Ga dan op een design thinking reis"
+
+msgid "with our co-creation planet. Through this"
+msgstr "met onze co-creatie planeet. Via deze reis"
+
+msgid "journey, you work towards a specific outcome."
+msgstr "werk je naar een specifiek resultaat."
+
+msgid "Describe this outcome in generic terms before"
+msgstr "Omschrijf dit resultaat dat je wil vooraleer"
+
+msgid "you start your journey."
+msgstr "je van start gaat met je reis."
+
+msgid "1. EMPATHIZE"
+msgstr "1. INLEVEN"
+
+msgid "& UNDERSTAND"
+msgstr "& BEGRIJPEN"
+
+msgid "CONTINENT"
+msgstr "CONTINENT"
+
+msgid "2. DEFINE"
+msgstr "2. DEFINIËREN"
+
+msgid "& IDEATE"
+msgstr "& IDEE VORMING"
+
+msgid "3. RAPID"
+msgstr "3. SNELLE"
+
+msgid "PROTOTYPING"
+msgstr "PROTOTYPING"
+
+msgid "& ITERATION"
+msgstr "& ITERATIE"
+
+msgid "4. SHARING"
+msgstr "4. DELEN"
+
+msgid "& FEEDBACK"
+msgstr "& FEEDBACK"
+
+msgid "5. RESPOND"
+msgstr "5. REAGEREN"
+
+msgid "& DELIVER"
+msgstr "& OPLEVEREN"
+
+msgid "PLANET"
+msgstr "PLANEET"
+
+msgid "METAPHOR"
+msgstr "METAFOOR"
+
+msgid "1."
+msgstr ""
+
+msgid "In this"
+msgstr "In dit"
+
+msgid "1st continent"
+msgstr "1e continent"
+
+msgid "explore (diverge) and understand, rather than"
+msgstr "exploreer (divergeer) en begrijp, in plaats van"
+
+msgid "simply assume, what the problem of your"
+msgstr "te veronderstellen, wat het probleem is in jouw"
+
+msgid "project is and how to solve it yourself."
+msgstr "project, en hoe het zelf op te lossen."
+
+msgid "This continent involves, for example, speaking"
+msgstr "Dit continent omvat bij voorbeeld spreken met,"
+
+msgid "to and spending time with people who are"
+msgstr "en tijd doorbrengen met, mensen die beinvloed"
+
+msgid "affected by the circumstances of the topic."
+msgstr "worden door de omstandigheden van het ondwerp."
+
+msgid "It contains countries (Empathising, Exploring)"
+msgstr "Het bevat landen (inleven, ontdekken)"
+
+msgid "that are concepts you want to learn through"
+msgstr "welke concepten zijn die je wil leren door het "
+
+msgid "travelling through several cities (tools) spread"
+msgstr "reizen via verschillende steden (hulpmiddelen)"
+
+msgid "out in broad regions."
+msgstr "die zich bevinden in grote regios."
+
+msgid "2."
+msgstr ""
+
+msgid "2nd continent"
+msgstr "2e continent"
+
+msgid "you can process the insights gathered in the"
+msgstr "kun je  de inzichten bekomen in het eerste"
+
+msgid "1st continent (Discover) and help you define"
+msgstr "continent (ontdek) verwerken, wat je helpt deze"
+
+msgid "them (narrow down / converge)."
+msgstr "te definiëren (versmallen scope / convergeren)."
+
+msgid "You can visit countries that deal with"
+msgstr "Je kan landen bezoeken die helpen bij het"
+
+msgid "Contextualising and Setting Criteria for your project."
+msgstr "contextualiseren en criteria zetten voor uw project."
+
+msgid "3."
+msgstr ""
+
+msgid "3rd continent"
+msgstr "3e continent"
+
+msgid "encouraged to give different answers (diverge again!)"
+msgstr "aangemoedigd om verschillende antwoorden (terug"
+
+msgid "to the defined problem seeking inspiration"
+msgstr "divergeren) van het proleem, waarbij je inspiratie zoekt"
+
+msgid "from elsewhere and co-designing with a"
+msgstr "vanuit diverse invalshoeken en je co-design doet"
+
+msgid "range of different people. This is a continent"
+msgstr "met verschillende personen. Dit is een continent"
+
+msgid "that allows again to expand/diverge in your"
+msgstr "dat je toelaat weer de expanderen.divergen binnen"
+
+msgid "already selected ideas from the previous"
+msgstr "je geselecteerde ideeën uit de eerdere continenten/"
+
+msgid "continents/phases. This includes the countries"
+msgstr "fazen. Dit continent omvat de landen"
+
+msgid "of Ideating for Solutions, Prototyping, and Testing"
+msgstr "Ideeën voor Oplossingen, Prototyping, en Testen "
+
+msgid "while Developing. Enjoy this fun continent!"
+msgstr "tijdens Ontwikkelen. Geniet van dit tof continent!"
+
+msgid "4."
+msgstr ""
+
+msgid "This"
+msgstr "Dit"
+
+msgid "4th continent"
+msgstr "4e continent"
+
+msgid "out different solutions at small-scale, rejecting"
+msgstr "verschillende oplossingen uit in kleine schaal, verwerpt"
+
+msgid "those that will not work and improving the ones that will."
+msgstr "die die niet werken, en verbetert die die dat wel doen"
+
+msgid "What do other people think of your work?"
+msgstr "Wat denken andere mensen van je werk?"
+
+msgid "5."
+msgstr ""
+
+msgid "In this 5th and final continent (Deliver phase)"
+msgstr "In dit 5e en finale continent (Oplever Fase)"
+
+msgid "you think how you take this project to the next level,"
+msgstr "denk je na hoe je dit project naar een hoger niveau kunt "
+
+msgid "or how you can promote it and present to the"
+msgstr "brengen, of hoe je het kunt promoten en presenteren"
+
+msgid "clients, and sustain it in the marketplace!"
+msgstr "naar cliënten. Kan het op eigen benen staan?"
+
+msgid "This is a phase where you focus on (that is, converge)"
+msgstr "Dit is de fase waar je focust op (dus convergeert naar)"
+
+msgid "your final solution development."
+msgstr "je finale oplossing."
+
+msgid "What changes can you do based on the feedback?"
+msgstr "Welke aanpassingen kun je doen op basis van de feedback?"
+
+msgid "BACK"
+msgstr "TERUG"
+
+msgid "TO"
+msgstr "NAAR"
+
+msgid "EMPATHISE"
+msgstr "INLEVEN"
+
+msgid "COUNTRY"
+msgstr "LAND"
+
+msgid "UNDERSTAND"
+msgstr "BEGRIJPEN"
+
+msgid "In this country you can find cities (tools)"
+msgstr "In dit land kun je steden (tools) vinden"
+
+msgid "that help you develop empathy with the"
+msgstr "die je helpen om empathie te ontwikkels met de"
+
+msgid "users of your project, as well as, with your"
+msgstr "gebruikers van je project, alsook met je team,"
+
+msgid "team members on a human level. This"
+msgstr "op een menselijk niveau. Dit land helpt je"
+
+msgid "country is about training mainly your"
+msgstr "je zachte/interpersoonlijke talenten te"
+
+msgid "soft/interpersonal skills."
+msgstr "trainen."
+
+msgid "In this country you can find tools (cities)"
+msgstr "In dit land vind je hulpmiddelen (stden)"
+
+msgid "that help you explore and understand"
+msgstr "die je helpen exploreren en begrijpen"
+
+msgid "how to manage, organise, and frame"
+msgstr "hoe je project en team te managen,"
+
+msgid "your project and team on a structural"
+msgstr "organiseren en framen. Ook op een "
+
+msgid "level. This country is mainly about"
+msgstr "structureel niveau. Dit land helpt je"
+
+msgid "training your organisational skills."
+msgstr "organisatorische talenten trainen."
+
+msgid "DISCOVER"
+msgstr "ONTDEK"
+
+msgid "HIGH"
+msgstr "HOGE"
+
+msgid "IMMERSION"
+msgstr "IMMERSIE"
+
+msgid "REGION"
+msgstr "REGIO"
+
+msgid "LOW"
+msgstr "LAGE"
+
+msgid "External resource link"
+msgstr "Externe link"
+
+msgid "Exten(DT)²  Tool"
+msgstr "Exten(DT)²  Tool"
+
+msgid "Example"
+msgstr "Voorbeeld"
+
+msgid "AUDIENCE"
+msgstr "PUBLIEK"
+
+msgid "DEFINING"
+msgstr "DEFINIËREN"
+
+msgid "FRAME"
+msgstr "FRAME"
+
+msgid "PROJECT,"
+msgstr "PROJECT,"
+
+msgid "CHALLENGES"
+msgstr "UITDAGINGEN"
+
+msgid "& IMPACT"
+msgstr "& IMPACT"
+
+msgid "PROJECT"
+msgstr "PROJECT"
+
+msgid "PLANNING"
+msgstr "PLANNING"
+
+msgid "LITERATURE"
+msgstr "LITERATUUR"
+
+msgid "SEARCH"
+msgstr "ZOEKTOCHT"
+
+msgid "IDEATION"
+msgstr "IDEEËN"
+
+msgid "DEFINE"
+msgstr "DEFINIËREN"
+
+msgid "In this country, you can visit different cities (tools)"
+msgstr "In dit land kun je verschillende steden (tools) bezoeken"
+
+msgid "that can help you work out your project in more detail"
+msgstr "die je kunnen helpen met het uitwerken van je project"
+
+msgid "by, for example, identifying the specific research"
+msgstr "in meer detail, bv, het specifieke onderzoeksprobleem"
+
+msgid "problem and question you want to tackle from"
+msgstr "identificeren dat je wil aanpakken uit de vele die"
+
+msgid "the many that you have explored in the"
+msgstr "je hebt bekeken in de eerste faze (Ontdek)."
+
+msgid "first phase (Discover). You also define the"
+msgstr "Je definieert ook de criteria waarop je project"
+
+msgid "criteria your project should be based on."
+msgstr "zou moeten gebaseerd zijn."
+
+msgid "In this country, you can find cities (tools)"
+msgstr "In dit land vind je de steden (tools) terug die"
+
+msgid "that can help you start generate ideas"
+msgstr "je kunnen helpen bij het genereren van "
+
+msgid "for solutions."
+msgstr "ideeën voor oplossingen."
+
+msgid "MAPPING OUT"
+msgstr "IN KAART BRENGEN"
+
+msgid "FIND THEMES"
+msgstr "VIND THEMA'S"
+
+msgid "& INSIGHTS"
+msgstr "& INZICHTEN"
+
+msgid "SETTING CRITERIA"
+msgstr "CRITERIA ZETTEN"
+
+msgid "BRAINSTORMING"
+msgstr "BREINSTORMEN"
+
+msgid "PROTOTYPE"
+msgstr "PROTOTYPE"
+
+msgid "ITERATION"
+msgstr "ITERATIE"
+
+msgid "In this country, you can find cities (tools) that help"
+msgstr "In dit land vind je steden (tools) die helpen bij"
+
+msgid "you develop your prototype, that is, an early sample,"
+msgstr "het uitwerken van je prototype, dat is, een eerste model"
+
+msgid "model or release of a product built to test a concept or process."
+msgstr "of product uitwerking om een concept of proces te testen."
+
+msgid "In this country, you can find cities (tools) that help you test"
+msgstr ""
+
+msgid "your intermediate solution(s) in your group, even though you are still"
+msgstr ""
+
+msgid "developing and refining."
+msgstr ""
+
+msgid "PROTYPING"
+msgstr "PROTOTYPEREN"
+
+msgid "LOW FIDELITY"
+msgstr "LAGE GETROUWHEID"
+
+msgid "HIGH FIDELITY"
+msgstr "HOGE GETROUWHEID"
+
+msgid "FEEDBACK"
+msgstr "FEEDBACK"
+
+msgid "SHARING"
+msgstr "DELEN"
+
+msgid "you share your creation with external users."
+msgstr ""
+
+msgid "In this country, you an find cities (tools) that help you obtain"
+msgstr ""
+
+msgid "feedback on your work with actual users, so as to"
+msgstr ""
+
+msgid "further improve it."
+msgstr ""
+
+msgid "PREPARE TO SHARE"
+msgstr "KLAARMAKEN VOOR DELEN"
+
+msgid "SHARE"
+msgstr "DEEL"
+
+msgid "SOLLICIT"
+msgstr "VRAAG OM"
+
+msgid "FEEDBACK REGION"
+msgstr "FEEDBACK REGIO"
+
+msgid "ANALYZE"
+msgstr "ANALYSEREN"
+
+msgid "AFTERLIFE"
+msgstr "AFTERLIFE"
+
+msgid "DELIVER"
+msgstr "OPLEVEREN"
+
+msgid "RESPOND"
+msgstr "REAGEREN"
+
+msgid "In this country, you can find cities (tools) that help you with"
+msgstr "In dit land kun je steden (tools) terugvinden die helpen bij"
+
+msgid "responding to the feedback you had from the users. Be sure to check"
+msgstr "het reageren op feedback die je kreeg van gebruiken. Zorg dat "
+
+msgid "and test with your users several times before moving on!"
+msgstr "je verschillende keren test met je gebruikers vooraleer verder te gaan!"
+
+msgid "In this country, you can find cities (tools) to help you unlock the"
+msgstr "In dit land kun je steden (tools) vinden die je helpen het potentieel"
+
+msgid "potential of your project by sharing the result in a more permanent"
+msgstr "van je project te maximalizeren door het te delen op een meer"
+
+msgid "way. Like this the result can live on after your journey as finished!"
+msgstr "permanente maier. Zo kan het resultaat verderleven als het voor jou af is!"
+
+msgid "In this country, you can find cities (tools) on how to deliver the"
+msgstr "In dit land vind je steden (tools) over hoe je resultaat af te leveren"
+
+msgid "result to the teacher."
+msgstr "aan de leerkracht."
+
+msgid "REACT ON"
+msgstr "REAGEER OP"
+
+msgid "FINAL TESTING"
+msgstr "FINALE TESTEN"
+
+msgid "PREPARING FOR"
+msgstr "VOORBEREIDEN VOOR"
+
+msgid "PRESENTING REGION"
+msgstr "PRESENTEREN REGIO"
+
+msgid "PITCHING  REGION"
+msgstr "PITCHING -REGIO"
+
+msgid "PROJECT AFTERLIFE"
+msgstr "PROJECT AFTERLIFE"

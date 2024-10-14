@@ -32,6 +32,8 @@ languages:
   - en
   - nl
 
+google_analytics: "G-KZSWFSK906"
+
 # Build settings
 theme: minima
 

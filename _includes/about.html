@@ -121,6 +121,33 @@
               });
             {% endfor %}
                    
+            // for loop for navbar clicks that switch between layer to different country
+            {% for country in site.data.svgelements.navbar_mouseover %}  
+              // navbar item
+              let {{ country.svglabel }} = mySvg.getElementById("{{ country.svglabel }}");
+              //let {{ country.svglabel }}_base = mySvg.getElementById("{{ country.svglabel }}_base");
+              // Add event listener for mouseover event on navbar
+              {{ country.svglabel }}.addEventListener("mouseover", () => {
+                {{ country.svglabel }}.style.filter = "brightness(75%)";
+                {{ country.svglabel }}.style.fill = "#f1f1f1";
+                {{ country.svglabel }}.style.cursor = "pointer";
+              });
+
+              // Add event listener for mouseout event on navbar
+              {{ country.svglabel }}.addEventListener("mouseout", () => {
+                // Change the fill color to highlight the SVG element
+                {{ country.svglabel }}.style.filter = "brightness(100%)";
+                {{ country.svglabel }}.style.fill = "#ffffff";
+              });
+              // add event listener for click on navbar
+              {{ country.svglabel }}.addEventListener("click", () => {
+                {{ country.movefromlayer }}.style.display = "none";
+                {{ country.movetolayer }}.style.display = "inline";
+                 //window.open("http://google.be", "_blank");
+
+              });
+            {% endfor %}
+                   
             //console.log(c1c1txt.firstChild.firstChild);
             // for loop to show the standard links
             {% for link in site.data.courselinks.cocreationlinks %}  

@@ -81,11 +81,18 @@ if __name__ == "__main__":
     sorted_keys = sorted(translations_dict.keys(), key=len, reverse=True)
     for txten in sorted_keys:
         txtnl = translations_dict[txten]
+        print (txten, '-->', txtnl)
         # make copy of old version first
         copy_file(filename_out, filename_in)
         # make new version of output file
         with open(filename_out, 'w') as file:
-            file.write(open(filename_in).read().replace(txten, txtnl))
+            file.write(open(filename_in).read().replace('>' + txten, '>' + txtnl))
+    # fix error of DEL changed in OPL, but DELEN is Dutch
+    copy_file(filename_out, filename_in)
+    # make new version of output file
+    with open(filename_out, 'w') as file:
+        file.write(open(filename_in).read().replace('>OPLEN', '>DELEN'))
+    
     #remove tmp file
     delete_file(filename_in)
     

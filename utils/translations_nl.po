@@ -1,11 +1,11 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: cocreationplanet\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
 "Last-Translator: Benny\n"
 "Language-Team: \n"
-"Language: nl\n"
+"Language: nl_BE\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -23,9 +23,11 @@ msgstr "van Design Thinking op natuurlijke wijze te ontdekken."
 msgid "You have a"
 msgstr "Je hebt een"
 
+#, fuzzy
 msgid "challenge"
 msgstr "uitdaging"
 
+#, fuzzy
 msgid "the topic you seek to solve in 1-2 sentences."
 msgstr "het onderwerp dat je wil oplossen in 1-2 zinnen."
 
@@ -77,6 +79,7 @@ msgstr "& FEEDBACK"
 msgid "5. RESPOND"
 msgstr "5. REAGEREN"
 
+#, fuzzy
 msgid "& DELIVER"
 msgstr "& OPLEVEREN"
 
@@ -87,7 +90,7 @@ msgid "METAPHOR"
 msgstr "METAFOOR"
 
 msgid "1."
-msgstr ""
+msgstr "1."
 
 msgid "In this"
 msgstr "In dit"
@@ -104,18 +107,22 @@ msgstr "te veronderstellen, wat het probleem is in jouw"
 msgid "project is and how to solve it yourself."
 msgstr "project, en hoe het zelf op te lossen."
 
+#, fuzzy
 msgid "This continent involves, for example, speaking"
 msgstr "Dit continent omvat bij voorbeeld spreken met,"
 
+#, fuzzy
 msgid "to and spending time with people who are"
 msgstr "en tijd doorbrengen met, mensen die beinvloed"
 
 msgid "affected by the circumstances of the topic."
 msgstr "worden door de omstandigheden van het ondwerp."
 
+#, fuzzy
 msgid "It contains countries (Empathising, Exploring)"
 msgstr "Het bevat landen (inleven, ontdekken)"
 
+#, fuzzy
 msgid "that are concepts you want to learn through"
 msgstr "welke concepten zijn die je wil leren door het "
 
@@ -126,7 +133,7 @@ msgid "out in broad regions."
 msgstr "die zich bevinden in grote regios."
 
 msgid "2."
-msgstr ""
+msgstr "2."
 
 msgid "2nd continent"
 msgstr "2e continent"
@@ -147,7 +154,7 @@ msgid "Contextualising and Setting Criteria for your project."
 msgstr "contextualiseren en criteria zetten voor uw project."
 
 msgid "3."
-msgstr ""
+msgstr "3."
 
 msgid "3rd continent"
 msgstr "3e continent"
@@ -180,7 +187,7 @@ msgid "while Developing. Enjoy this fun continent!"
 msgstr "tijdens Ontwikkelen. Geniet van dit tof continent!"
 
 msgid "4."
-msgstr ""
+msgstr "4."
 
 msgid "This"
 msgstr "Dit"
@@ -188,6 +195,7 @@ msgstr "Dit"
 msgid "4th continent"
 msgstr "4e continent"
 
+#, fuzzy
 msgid "out different solutions at small-scale, rejecting"
 msgstr "verschillende oplossingen uit in kleine schaal, verwerpt"
 
@@ -198,7 +206,7 @@ msgid "What do other people think of your work?"
 msgstr "Wat denken andere mensen van je werk?"
 
 msgid "5."
-msgstr ""
+msgstr "5."
 
 msgid "In this 5th and final continent (Deliver phase)"
 msgstr "In dit 5e en finale continent (Oplever Fase)"
@@ -242,9 +250,11 @@ msgstr "In dit land kun je steden (tools) vinden"
 msgid "that help you develop empathy with the"
 msgstr "die je helpen om empathie te ontwikkels met de"
 
+#, fuzzy
 msgid "users of your project, as well as, with your"
 msgstr "gebruikers van je project, alsook met je team,"
 
+#, fuzzy
 msgid "team members on a human level. This"
 msgstr "op een menselijk niveau. Dit land helpt je"
 
@@ -257,12 +267,15 @@ msgstr "trainen."
 msgid "In this country you can find tools (cities)"
 msgstr "In dit land vind je hulpmiddelen (stden)"
 
+#, fuzzy
 msgid "that help you explore and understand"
 msgstr "die je helpen exploreren en begrijpen"
 
+#, fuzzy
 msgid "how to manage, organise, and frame"
 msgstr "hoe je project en team te managen,"
 
+#, fuzzy
 msgid "your project and team on a structural"
 msgstr "organiseren en framen. Ook op een "
 
@@ -271,6 +284,24 @@ msgstr "structureel niveau. Dit land helpt je"
 
 msgid "training your organisational skills."
 msgstr "organisatorische talenten trainen."
+
+msgid "SHA"
+msgstr "DEEL"
+
+msgid "DEF"
+msgstr "DEF"
+
+msgid "EMP"
+msgstr "EMP"
+
+msgid "ITER"
+msgstr "ITER"
+
+msgid "DEL"
+msgstr "OPL"
+
+msgid "BACK TO"
+msgstr "TERUG NAAR"
 
 msgid "DISCOVER"
 msgstr "ONTDEK"
@@ -386,23 +417,25 @@ msgstr "ITERATIE"
 msgid "In this country, you can find cities (tools) that help"
 msgstr "In dit land vind je steden (tools) die helpen bij"
 
+#, fuzzy
 msgid "you develop your prototype, that is, an early sample,"
 msgstr "het uitwerken van je prototype, dat is, een eerste model"
 
+#, fuzzy
 msgid "model or release of a product built to test a concept or process."
 msgstr "of product uitwerking om een concept of proces te testen."
 
-msgid "In this country, you can find cities (tools) that help you test"
-msgstr ""
+msgid "In this country, you an find cities (tools) that help you test"
+msgstr "In dit land vind je steden (tools) die helpen bij "
 
 msgid "your intermediate solution(s) in your group, even though you are still"
-msgstr ""
+msgstr "testen van je tussenoplossingen in je groep, ook al"
 
 msgid "developing and refining."
-msgstr ""
+msgstr "ben je nog aan het ontwikkelen en verbeteren."
 
 msgid "PROTYPING"
-msgstr "PROTOTYPEREN"
+msgstr "PROTOTYPES"
 
 msgid "LOW FIDELITY"
 msgstr "LAGE GETROUWHEID"
@@ -417,16 +450,16 @@ msgid "SHARING"
 msgstr "DELEN"
 
 msgid "you share your creation with external users."
-msgstr ""
+msgstr "hoe je je creatie deelt met externe gebruikers."
 
-msgid "In this country, you an find cities (tools) that help you obtain"
-msgstr ""
+msgid "In this country, you can find cities (tools) that help you obtain"
+msgstr "In dit land vind je steden (tools) die helpen bij het bekomen"
 
 msgid "feedback on your work with actual users, so as to"
-msgstr ""
+msgstr "van feedback op je werk van echte gebruikers, zodat"
 
 msgid "further improve it."
-msgstr ""
+msgstr "je het verder kan verbeteren."
 
 msgid "PREPARE TO SHARE"
 msgstr "KLAARMAKEN VOOR DELEN"
@@ -446,6 +479,7 @@ msgstr "ANALYSEREN"
 msgid "AFTERLIFE"
 msgstr "AFTERLIFE"
 
+#, fuzzy
 msgid "DELIVER"
 msgstr "OPLEVEREN"
 
@@ -471,7 +505,7 @@ msgid "way. Like this the result can live on after your journey as finished!"
 msgstr "permanente maier. Zo kan het resultaat verderleven als het voor jou af is!"
 
 msgid "In this country, you can find cities (tools) on how to deliver the"
-msgstr "In dit land vind je steden (tools) over hoe je resultaat af te leveren"
+msgstr "In dit land vind je steden (tools) over hoe je resultaat presenteren"
 
 msgid "result to the teacher."
 msgstr "aan de leerkracht."
@@ -490,6 +524,9 @@ msgstr "PRESENTEREN REGIO"
 
 msgid "PITCHING  REGION"
 msgstr "PITCHING -REGIO"
+
+msgid "BACK   TO"
+msgstr "TERUG NAAR"
 
 msgid "PROJECT AFTERLIFE"
 msgstr "PROJECT AFTERLIFE"

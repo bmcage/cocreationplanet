@@ -150,7 +150,12 @@
                    
             //console.log(c1c1txt.firstChild.firstChild);
             // for loop to show the standard links
-            {% for link in site.data.courselinks.cocreationlinks %}  
+            {% if curLang == "nl" %}
+                   {% assign links = site.data.courselinks_nl.cocreationlinks %}
+            {% else %}
+                   {% assign links = site.data.courselinks.cocreationlinks %}
+            {% endif %}  
+            {% for link in links %}  
               {% if site.data.possiblecourselinks.poscocreationlinks contains link.svglabel %}
               let {{ link.svglabel }} = mySvg.getElementById("{{ link.svglabel }}");
 

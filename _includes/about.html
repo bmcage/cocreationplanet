@@ -227,7 +227,12 @@
             {% endfor %}
             
             // same as above for links to the extendt2 tools
-            {% for link in site.data.courselinks.cocreationlinksExtendt2 %}  
+            {% if curLang == "nl" %}
+                   {% assign links = site.data.courselinks_nl.cocreationlinksExtendt2 %}
+            {% else %}
+                   {% assign links = site.data.courselinks.cocreationlinksExtendt2 %}
+            {% endif %}  
+            {% for link in links %}  
               {% if site.data.possiblecourselinks.poscocreationlinksExtendt2 contains link.svglabel %}
               let {{ link.svglabel }} = mySvg.getElementById("{{ link.svglabel }}");
 
@@ -287,7 +292,12 @@
             {% endfor %}
 
             // same as above for the links to the examples:
-            {% for link in site.data.courselinks.cocreationlinksExamples %}  
+            {% if curLang == "nl" %}
+                   {% assign links = site.data.courselinks_nl.cocreationlinksExamples %}
+            {% else %}
+                   {% assign links = site.data.courselinks.cocreationlinksExamples %}
+            {% endif %}  
+            {% for link in links %}  
               {% if site.data.possiblecourselinks.poscocreationlinksExamples contains link.svglabel %}
               let {{ link.svglabel }} = mySvg.getElementById("{{ link.svglabel }}");
 
